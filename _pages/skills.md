@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * **Programming:**  
-Python -- Bash -- C -- C++SQL -- Answer-Set-Programming -- HTML/CSS, JavaScript -- LaTeX
+Python -- Bash -- C -- C++ -- SQL -- Answer-Set-Programming -- HTML/CSS, JavaScript -- LaTeX
 * **Theoretical computer science:**  
 algorithmics -- graphs -- complexity -- languages
 * **Machine learning:**  
