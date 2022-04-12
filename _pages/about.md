@@ -22,7 +22,7 @@ This modeling confronts <important>prior knowledge</important> on interactions w
 **The holistic approach of systems biology** suits with the way I spontaneously look at my environment and explore the behaviors we witness all around us. I have a passion for **understanding the grounds controlling biological and social behaviors**, for trying to untangle and predict their dynamics.
 
 I am particularly interested in metabolism due to a chronic disease I suffer from, which is still very poorly understood by science.
-I dream of one day being able to devote my skills to scientific research on this disease.
+I dream of one day being able to devote my skills to scientific research on this issue.
 
 ### Interest in Bioinformatics
 
