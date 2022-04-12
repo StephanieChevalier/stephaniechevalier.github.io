@@ -27,7 +27,7 @@ author_profile: true
    - dimensionality reduction (PCA)
    - cross-validation
 
-* Software \& Tools  
+* Software and tools  
    - **Data handling/analysis**  
    (e.g. numpy, scipy, pandas, ...)
    - **Visualisation**  
