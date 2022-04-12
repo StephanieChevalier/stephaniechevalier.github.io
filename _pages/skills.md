@@ -8,9 +8,9 @@ author_profile: true
 * **Programming:**  
 Python -- Bash -- C -- C++ -- SQL -- Answer-Set-Programming -- HTML/CSS, JavaScript -- LaTeX
 * **Theoretical computer science:**  
-algorithmics -- graphs -- complexity -- languages
+Algorithmics -- Graphs -- Complexity -- Languages
 * **Machine learning:**  
-regression / classification / clustering methods -- ensemble methods (random forest) -- dimensionality reduction (PCA) -- cross-validation
+Regression / classification / clustering methods -- Ensemble methods (random forest) -- Dimensionality reduction (PCA) -- Cross-validation
 * **Software and tools:**  
 Data handling/analysis (e.g. numpy, scipy, pandas, ...) -- Visualisation (e.g. matplotlib, seaborn, ...)
 * **Operating Systems:**  
