@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Communications"
+    url: /communications/
+
+  - title: "Experience & education"
+    url: /experience/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "About me"
+    url: /more-info/
+
+#  - title: "Portfolio"
+#    url: /portfolio/
+
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
+#  - title: "CV"
+#    url: /cv/
+
+#  - title: "Guide"
+#    url: /markdown/
