@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Stéphanie Chevalier"
 excerpt: "About me"
