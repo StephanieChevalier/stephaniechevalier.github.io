@@ -36,25 +36,28 @@ h1 {
 h1.page__title {
     padding: 1em;
     text-align: center;
-    color: #4f6e8c; /*#d7a686*/
+    /*color: #4f6e8c; /*#d7a686, bordeau:602e3c*/
+    text-shadow: 1px 1px 0px rgba(0,0,0,0.15);
+}
+
+h2, h3#interest-in-bioinformatics {
+    /*border-left: 2px solid rgba(0,0,0,0.15);*/
+    text-shadow: 1px 1px 0px rgba(0,0,0,0.15);
 }
 
 h2 {
     margin-top: 1em;
     margin-bottom: 1em;
     font-size: $type-size-4;
-
-    padding: 0.5em 2%;
+    color: #4f6e8c; /*#5d7d9c*/
+    padding: 0.5em 0;
     /*background-color: #cbdbeb;*/
     /*box-shadow: 12px 10px 6px -6px rgba(203,219,235,0.61);
     box-shadow: 10px 6px 20px 0px rgba(119,151,181,0.61);
     box-shadow: 0px 0px 20px 0px rgba(119,151,181,0.61);
     box-shadow: 6px 4px 15px 0px rgba(119,151,181,0.61);
-    box-shadow: -6px -10px 11px -10px rgba(119,151,181,0.61);*/
+    box-shadow: -6px -10px 11px -10px rgba(119,151,181,0.61);
     border-bottom: 2px solid #4f6e8c; /*#eeeeee*/
-    /*border-left: 2px solid #4f6e8c;*/
-    color: #4f6e8c; /*#5d7d9c*/
-    /*text-align: center;*/
 }
 
 h2.archive__item-title {
@@ -68,9 +71,9 @@ h3 {
 }
 
 h3#interest-in-bioinformatics {
-    margin-top: 1.5em;
-    padding: 0.5em 2%;
-    border-bottom: 1px solid #eeeeee;
+    margin-top: 1em;
+    padding: 0em 0;
+    /*border-bottom: 1px solid #eeeeee;*/
     /*border-left: 1px solid #eeeeee;*/
     /*border-left: 1px solid #ebebeb;
     box-shadow: 0px 6px 6px -6px rgba(119,151,181,0.61);*/
