@@ -26,6 +26,6 @@ I dream of one day being able to devote my skills to scientific research on this
 
 ### Interest in Bioinformatics
 
-Trained in bioinformatics, I could explore via internships the research in different areas of this discipline: the challenge of **data integration**, **NGS analysis**, **structural analysis** for drug design, and finally the one of complex **biological systems analysis and modelling**. This overview was for me the chance to approach an issue with different viewpoints facing different challenges. The interdisciplinary interactions inherent in bioinformatics are an important motivation for me, intensified in systems biology.
+Trained in bioinformatics, I could look into the research in different areas of this discipline through internships: the challenge of **data integration**, **NGS analysis**, **structural analysis** for drug design, and finally the one of complex **biological systems analysis and modelling**. This overview was for me the chance to approach an issue with different viewpoints facing different challenges. The interdisciplinary interactions inherent in bioinformatics are an important motivation for me, intensified in systems biology.
 
 The research topics in which I have mainly developed my skills through the doctorate are **discrete dynamical modelling** and **logic programming**. I also notably became aware of the opportunities and biases of **single-cell data**.
