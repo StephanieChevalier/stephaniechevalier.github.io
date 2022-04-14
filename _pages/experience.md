@@ -8,7 +8,7 @@ author_profile: true
 ## Experience
 
 * *PhD in systems biology* - since 10/2018, Université Paris Saclay  (LISN, team BioInfo)  &  Institut Curie (team U900)  
-**Automatically synthesize Boolean networks from knowledge and observations on a biological system, to model complex processes such as cell differentiation.**
+**Inference of Boolean networks from knowledge and observations on a biological system, to model complex processes such as cell differentiation from scRNA-seq.**
 Supervisors: Christine Froidevaux (LISN), Loïc Paulevé (LaBRI), Andrei Zinovyev (Institut Curie)
 * *internship (6mos.) in systems biology* - 2018, Université Paris-Saclay, LRI  
 **By a logical approach (in ASP), identify Boolean networks modeling cell differentiation.** Supervisor: Loïc Paulevé
