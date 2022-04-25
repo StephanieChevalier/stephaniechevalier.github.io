@@ -10,7 +10,7 @@ Python -- Bash -- C -- C++ -- SQL -- Answer-Set-Programming -- HTML/CSS, JavaScr
 * **Machine learning:**  
 Regression (lin., polyn., logistic, GLM) -- Classification (decision tree, kNN) -- Clustering (hierarchical, k-means) -- Ensemble methods (random forest) -- Dimensionality reduction (PCA, MDS) -- Cross-validation
 * **Software and tools:**  
-Data handling/analysis (e.g. pandas, numpy, scipy, sklearn) -- Visualisation (e.g. matplotlib, seaborn, graphviz)
+Data handling/analysis (pandas, numpy, scipy, sklearn, networkx) -- Visualisation (matplotlib, seaborn, graphviz)
 * **Theoretical computer science:**  
 Algorithmics -- Graphs -- Complexity -- Languages
 * **Operating Systems:**  
