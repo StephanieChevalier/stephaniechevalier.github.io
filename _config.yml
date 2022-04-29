@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Stéphanie Chevalier"
   avatar           : "bouille.jpg"
-  bio              : "Bioinformatics PhD student (in systems biology), contributing to an automatic Boolean network synthesis."
+  bio              : "Bioinformatics PhD student (in systems biology), contributing to an automatic Boolean network inference."
   location         : "Université Paris-Saclay"
   employer         :
   pubmed           :
