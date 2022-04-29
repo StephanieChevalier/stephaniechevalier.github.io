@@ -9,11 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-Final-year **bioinformatics PhD student** at the university Paris-Saclay, due to finish around October 2022. I’ve been working on an **automatic synthesis of discrete dynamical models (Boolean networks)** of potentially complex biological processes such as cell differentiation.
+Final-year **bioinformatics PhD student** at the university Paris-Saclay, due to finish around October 2022. I’ve been working on an **automatic inference of discrete dynamical models (Boolean networks)** of potentially complex biological processes such as cell differentiation.
 
 ## Overview of my current work
 
-I contribute to the development of a method (in ASP) to <important>automatically synthesize discrete dynamical models of biological interactions</important>.
+I contribute to the development of a method (in ASP) to <important>automatically infer discrete dynamical models of biological interactions</important>.
 
 This modeling confronts <important>prior knowledge</important> on interactions with <important>observations</important> along the process to model (bulk/single cell gene expressions, perturbations, mutations...). It can then <important>enumerate all Boolean networks reproducing a complex behavior</important> (under _[mp semantics](https://hal.archives-ouvertes.fr/hal-01864693v2/document)_), e.g. cell differentiation. It can also be used to help <important>select relevant nodes among a large prior knowledge network</important> (e.g. from public interaction databases).
 
