@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Final-year **bioinformatics PhD student** at the university Paris-Saclay, due to finish around October 2022. I’ve been working on an **automatic inference of discrete dynamical models (Boolean networks)** of potentially complex biological processes such as cell differentiation.
+Final-year **bioinformatics PhD student** at the university Paris-Saclay, due to finish at the end of September 2022. I’ve been working on an **automatic inference of discrete dynamical models (Boolean networks)** of potentially complex biological processes such as cell differentiation.
 
 ## Overview of my current work
 
