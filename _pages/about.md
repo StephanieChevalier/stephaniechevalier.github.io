@@ -9,8 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-PhD - bioinformatics : systems biology
-
 ## Overview of my thesis
 
 I have contributed to the development of a method (in ASP) to <important>automatically infer discrete dynamical models of biological interactions</important>.
