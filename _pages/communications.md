@@ -12,7 +12,7 @@ author_profile: true
 * [Presentation](../files/CMSB2020.pdf) - **conference, <important>CMSB</important> (int. conf. on Computational Methods in Systems Biology)** - virtual, 09/2020
 * Presentation - **research school: <important>Network and molecular biology</important>** - CIRM, Marseille, 03/2020
 * Presentation - **seminar, <important>TheoBioR</important> (CNRS workgroup on metabolism and hybrid methods)** - Univ. Paris-Saclay, 12/2019
-* [Presentation](https://www.lri.fr/~schevalier/doc/2019-11_ICTAI.pdf) - **conference, <important>ICTAI</important> (Int. Conf. on Tools with Artificial Intelligence)** - Portland, Oregon, USA, 11/2019
+* [Presentation](../files/2019-11_ICTAI.pdf) - **conference, <important>ICTAI</important> (Int. Conf. on Tools with Artificial Intelligence)** - Portland, Oregon, USA, 11/2019
 * Poster - **conference, <important>ISMB/ECCB</important> (European Conference on Computational Biology)** - Basel, Swiss, 07/2019
 * Short presentation & poster - **course, <important>CSBC</important> (Computational Systems Biology of Cancer)** - Institut Curie, Paris, 09/2018
 * Poster - **conference, <important>JDSE</important> (Junior Conference on Data Science)** - Univ. Paris-Saclay, 09/2018
