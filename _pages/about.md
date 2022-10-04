@@ -13,6 +13,10 @@ redirect_from:
 
 I have contributed to the development of a method (in ASP) to <important>automatically infer discrete dynamical models of biological interactions</important>.
 
+![traj-example](../images/trajectoire.png){:class="img-page"}
+[![BoNesis-logo](../images/bonesis_logo.png){:class="img-page"}](https://github.com/bioasp/bonesis)
+![BN-example](../images/example-BN.png){:class="img-page"}
+
 This modeling confronts <important>prior knowledge</important> on interactions with <important>observations</important> along the process to model (bulk/single cell gene expressions, perturbations, mutations...). It can then <important>enumerate all Boolean networks reproducing a complex behavior</important> (under _[mp semantics](https://hal.archives-ouvertes.fr/hal-01864693v2/document)_), e.g. cell differentiation. It can also be used to help <important>select relevant nodes among a large prior knowledge network</important> (e.g. from public interaction databases).
 
 ## Research motivation
