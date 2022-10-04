@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: publications
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Computer Science conference papers (selection on full-length articles) :
+## Computer Science conference papers (selection on full-length articles) :
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}

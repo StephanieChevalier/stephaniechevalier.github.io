@@ -30,14 +30,76 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-top: 0;
-  font-size: $type-size-3;
+  font-size: $type-size-23;
 }
 
 h1.page__title {
-    padding: 1em;
+    padding: 5%;
     text-align: center;
     /*color: #4f6e8c; /*#d7a686, bordeau:602e3c*/
-    text-shadow: 1px 1px 0px rgba(0,0,0,0.15);
+    text-shadow: 1px 1px 0px black; //rgba(0,0,0,0.15)
+    background-size: cover;
+    color: white;
+}
+
+h1.page__title__experience {
+    padding: 5%;
+    text-align: center;
+    /*color: #4f6e8c; /*#d7a686, bordeau:602e3c*/
+    text-shadow: 1px 1px 0px black; //rgba(0,0,0,0.15)
+    background-image: url("../../images/background_experience_cut.jpg");
+    background-size: cover;
+    color: white;
+}
+
+h1.page__title__skills {
+    padding: 5%;
+    text-align: center;
+    /*color: #4f6e8c; /*#d7a686, bordeau:602e3c*/
+    text-shadow: 1px 1px 0px black; //rgba(0,0,0,0.15)
+    background-image: url("../../images/background_skills_cut.jpg");
+    background-size: cover;
+    color: white;
+}
+
+h1.page__title__communications {
+    padding: 5%;
+    text-align: center;
+    /*color: #4f6e8c; /*#d7a686, bordeau:602e3c*/
+    text-shadow: 1px 1px 0px black; //rgba(0,0,0,0.15)
+    background-image: url("../../images/background_communications_cut.jpg");
+    background-size: cover;
+    color: white;
+}
+
+h1.page__title__moreinfo {
+    padding: 5%;
+    text-align: center;
+    /*color: #4f6e8c; /*#d7a686, bordeau:602e3c*/
+    text-shadow: 1px 1px 0px black; //rgba(0,0,0,0.15)
+    background-image: url("../../images/Calais_cut.jpg");
+    background-size: cover;
+    color: white;
+}
+
+h1.page__title__teaching {
+    padding: 5%;
+    text-align: center;
+    /*color: #4f6e8c; /*#d7a686, bordeau:602e3c*/
+    text-shadow: 1px 1px 0px black; //rgba(0,0,0,0.15)
+    background-image: url("../../images/plaine_des_sables_cut.jpg");
+    background-size: cover;
+    color: white;
+}
+
+h1.page__title__publications {
+    padding: 5%;
+    text-align: center;
+    /*color: #4f6e8c; /*#d7a686, bordeau:602e3c*/
+    text-shadow: 1px 1px 0px black; //rgba(0,0,0,0.15)
+    background-image: url("../../images/mafate_cut.jpg");
+    background-size: cover;
+    color: white;
 }
 
 h2, h3 {

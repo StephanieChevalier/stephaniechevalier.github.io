@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: communications
 title: "External communications"
 permalink: /communications/
 author_profile: true

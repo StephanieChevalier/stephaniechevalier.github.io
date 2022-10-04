@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: skills
 title: "Overview of my skills"
 permalink: /skills/
 author_profile: true
