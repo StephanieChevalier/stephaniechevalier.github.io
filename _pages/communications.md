@@ -5,7 +5,7 @@ permalink: /communications/
 author_profile: true
 ---
 
-* [Thesis](../files/manuscrit-these-pre-soutenance.pdf) - Univ. Paris-Saclay, 09/2022
+* [Presentation](../files/2022-09_soutenance.pdf) & [Thesis](../files/manuscrit-these-pre-soutenance.pdf) - **PhD defense** - Univ. Paris-Saclay, 09/2022
 * [Presentation](../files/2021-07_WAN.pdf) - **workshop, <important>WAN</important> (Workshop on Automata Networks)** - Marseille, 07/2021
 * [Presentation](../files/2021-03_Bioss.pdf) - **seminar, <important>Bioss</important> (CNRS workgroup on systemic and symbolic biology)** - virtual, 03/2021
 * [Presentation](../files/2020-12_SinCellMod.pdf) - **workshop, <important>SinCellMod-2020</important> (Single cell data in network modeling)** - virtual, 12/2020
