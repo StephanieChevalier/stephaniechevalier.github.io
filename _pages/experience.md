@@ -28,7 +28,7 @@ Supervisors: Christine Froidevaux (LISN), Loïc Paulevé (LaBRI), Andrei Zinovye
 * **Master’s degree in Bioinformatics**,
 2018, Université Paris-Saclay
 * **Bachelor’s degree in Bioinformatics**,
-2015, Université Paris-Diderot
+2015, Université Paris-Diderot (Paris-Cité)
 
 
 ## Complementary training
