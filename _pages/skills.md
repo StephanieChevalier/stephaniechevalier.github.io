@@ -26,7 +26,7 @@ NCBI/EMBL/DDBJ, Gene Ontology, UniProt, DoRothEA, Signor, KEGG, OMIM, PDB...
 * **Theoretical computer science:**  
 Algorithmics, Graphs, Complexity, Languages
 * **Teaching skills:**  
-Design of teaching materials, series of exercises, exams
+Design of teaching materials, exercises, exams
 * **Operating Systems:**  
 Linux (Debian-based mostly), Windows
 * **Languages:**  
