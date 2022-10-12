@@ -12,7 +12,7 @@ Regression (lin., polyn., logistic, GLM) -- Classification (decision tree, kNN) 
 * **Software and tools:**  
 Data handling/analysis (pandas, numpy, scipy, sklearn, networkx) -- Visualisation (matplotlib, seaborn, graphviz, cytoscape)
 * **Public biological databases:**  
-NCBI/EMBL/DDBJ, Gene Ontology, UniProt, DoRothEA, Signor, KEGG, PDB
+NCBI/EMBL/DDBJ, Gene Ontology, UniProt, DoRothEA, Signor, KEGG, PDB...
 * **Theoretical computer science:**  
 Algorithmics -- Graphs -- Complexity -- Languages
 * **Operating Systems:**  
