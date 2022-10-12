@@ -17,7 +17,7 @@ Supervisors: Christine Froidevaux (LISN), Loïc Paulevé (LaBRI), Andrei Zinovye
 **Study of the structure-function relationship of the human P2RX7 receptor.** Supervisor: Nicolas Renault
 * *<important>internship in NGS analysis</important> (1,5mo. in 2015)* - Institut Pasteur (Lille)  
 **RNA-seq data analysis and pipeline set up in Galaxy.** Supervisor: Julie Chevalier
-* *<important>internship in data integration<important/> (1d/w for 4mos. in 2015)* - Université Paris-Diderot (Paris Cité), MTi  
+* *<important>internship in data integration<important/> (1d/w for 4mos. in 2015)* - Université Paris-Diderot (Paris-Cité), MTi  
 **Create a new biological database to gather information available in public databases linking (human) genes with diseases, metabolic pathways, and proteins.** Supervisor: Karine Audouze
 
 
