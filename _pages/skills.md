@@ -15,9 +15,9 @@ Data handling/analysis (pandas, numpy, scipy, sklearn, networkx) -- Visualisatio
 NCBI/EMBL/DDBJ, Gene Ontology, UniProt, DoRothEA, Signor, KEGG, OMIM, PDB...
 * **Theoretical computer science:**  
 Algorithmics -- Graphs -- Complexity -- Languages
-* **Operating Systems:**  
-Linux (Debian-based mostly) -- Windows
 * **Teaching skills:**  
 Design of teaching materials, series of exercises, exams
+* **Operating Systems:**  
+Linux (Debian-based mostly) -- Windows
 * **Languages:**  
 French (native language) -- English
