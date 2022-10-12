@@ -25,11 +25,9 @@ Visualisation (matplotlib, seaborn, graphviz, cytoscape)
 NCBI/EMBL/DDBJ, Gene Ontology, UniProt, DoRothEA, Signor, KEGG, OMIM, PDB...
 * **Theoretical computer science:**  
 Algorithmics, Graphs, Complexity, Languages
-* **NGS tertiary analysis:**  
-Recent experience of Gene Set Enrichment Analysis (Metascape).  
-Awareness of single-cell data biases. Knowledge on normalization and differential expression analysis (edgeR, DESeq).
-* **NGS secondary analysis:**  
-Knowledge on quality control (FastQC), raw read cleaning (trimmomatic, cutadapt), mapping (genome: STAR; transcriptome: Kallisto) or de novo assembly (Trinity), gene expression quantification (FeatureCounts).
+* **NGS analysis:**  
+*tertiary:* Recent experience of Gene Set Enrichment Analysis (Metascape). Awareness of single-cell data biases. Knowledge on normalization and differential expression analysis (edgeR, DESeq).  
+*secondary:* Knowledge on quality control (FastQC), raw read cleaning (trimmomatic, cutadapt), mapping (genome: STAR; transcriptome: Kallisto) or de novo assembly (Trinity), gene expression quantification (FeatureCounts).
 * **Teaching skills:**  
 Design of teaching materials, exercises, exams
 * **Operating Systems:**  
