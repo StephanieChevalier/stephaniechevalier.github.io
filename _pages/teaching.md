@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching assistant
 
-At the Paris-Saclay university, I have taught for 4 academic years for courses in **Master of bioinformatics (M1, M2)**, **Bachelor of computer science and mathematics (L1, L2)**, and **engineering school in computer science "Polytech"** (1st-y, 4th-y).
+At the Paris-Saclay university, I taught during 4 academic years for courses in **Master of bioinformatics (M1, M2)**, **Bachelor of computer science and mathematics (L1, L2)**, and **engineering school in computer science "Polytech"** (1st-y, 4th-y).
 
 * **<important>Introduction to data science</important>** (2021)  
 L1 Mathematics & Computer science
