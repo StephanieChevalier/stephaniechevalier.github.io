@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 * **Programming:**  
-Python, Bash, C, C++  
-SQL (PostgreSQL, mySQL)  
-Answer-Set-Programming  
-HTML/CSS, JavaScript  
+Python, Bash, C, C++ --
+SQL (PostgreSQL, mySQL) --
+Answer-Set-Programming --
+HTML/CSS, JavaScript -- 
 LaTeX
 * **Machine learning:**  
 Regression (lin., polyn., logistic, GLM)  
