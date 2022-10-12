@@ -5,7 +5,7 @@ permalink: /more-info/
 author_profile: true
 ---
 
-I grew up in Calais in France. I came to Paris-Diderot (Paris-Cité) to join the training which was then the only Bachelor's degree in bioinformatics preparing for research and continued with a Master in Paris-Saclay. I could see different issues of bioinformatics, from **NGS analysis** to **systems biology** via **structural bioinformatics**, while becoming aware of the challenges of **experiment reproducibility**, **data accessibility** and **theoretical computer science** difficulty.
+I grew up in Calais in France. I came to Paris-Diderot (Paris-Cité) to join the training which was then the only Bachelor's degree in bioinformatics preparing for research and I continued with a Master in Paris-Saclay. I could see different issues of bioinformatics, from **NGS analysis** to **systems biology** via **structural bioinformatics**, while becoming aware of the challenges of **experiment reproducibility**, **data accessibility** and **theoretical computer science** difficulty.
 
 ## A glimpse of my nature :
 
