@@ -9,7 +9,7 @@ author_profile: true
 
 * *<important>PhD in systems biology</important> (10/2018 > 09/2022)* - Université Paris-Saclay, LISN (team BioInfo)  &  Institut Curie (Paris), Cancer and Genome (team Computational Systems Biology of Cancer)  
 **Logical inference of Boolean networks from knowledge and observations of cellular differentiation processes**  
-[slides](../files/2022-09_soutenance.pdf) [thesis](../files/manuscrit-these-pre-soutenance.pdf)  
+[slides](../files/2022-09_soutenance.pdf) & [thesis](../files/manuscrit-these-pre-soutenance.pdf)  
 Supervisors: Christine Froidevaux (LISN), Loïc Paulevé (LaBRI), Andrei Zinovyev (Institut Curie)
 * *<important>internship in systems biology</important> (6mos. in 2018)* - Université Paris-Saclay, LRI  
 **By a logical approach (in ASP), identify Boolean networks modeling cell differentiation.** Supervisor: Loïc Paulevé
