@@ -28,7 +28,7 @@ Algorithmics, Graphs, Complexity, Languages
 * **Teaching skills:**  
 Design of teaching materials, exercises, exams
 * **NGS tertiary analysis:**  
-Recent experience of Gene Set Enrichment Analysis (Metascape). Awareness of single-cell data biases. Knowledge on normalization.
+Recent experience of Gene Set Enrichment Analysis (Metascape). Awareness of single-cell data biases. Knowledge on normalization and differential expression analysis (edgeR, DESeq).
 * **NGS secondary analysis:**  
 Theoretical knowledge on quality control (FastQC), raw read cleaning (trimmomatic, cutadapt), mapping (genome: STAR; transcriptome: Kallisto) or de novo assembly (Trinity), gene expression quantification (FeatureCounts).
 * **Operating Systems:**  
