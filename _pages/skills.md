@@ -9,8 +9,7 @@ author_profile: true
 Python, Bash, C, C++ --
 SQL (PostgreSQL, mySQL) --
 Answer-Set-Programming --
-HTML/CSS, JavaScript --
-LaTeX
+LaTeX, markdown, HTML/CSS
 * **Machine learning:**  
 Regression (lin., polyn., logistic, GLM) --
 Classification (decision tree, kNN) --
@@ -19,15 +18,15 @@ Ensemble methods (random forest) --
 Dimensionality reduction (PCA, MDS) --
 Cross-validation
 * **Software and tools:**  
-Data handling/analysis (pandas, numpy, scipy, sklearn, networkx)  
+Data mining (pandas, numpy, scipy, sklearn, networkx)  
 Visualisation (matplotlib, seaborn, graphviz, cytoscape)
 * **Public biological databases:**  
-NCBI/EMBL/DDBJ, Gene Ontology, UniProt, DoRothEA, Signor, KEGG, OMIM, PDB...
-* **Theoretical computer science:**  
-Algorithmics, Graphs, Complexity, Languages
+NCBI/EMBL/DDBJ, Gene Ontology, PDB, UniProt, DoRothEA, Signor, Reactome...
 * **NGS analysis:**  
 *tertiary:* Recent experience of Gene Set Enrichment Analysis (Metascape). Awareness of single-cell data biases. Knowledge on normalization and differential expression analysis (edgeR, DESeq).  
 *secondary:* Knowledge on quality control (FastQC), raw read cleaning (trimmomatic, cutadapt), mapping (genome: STAR; transcriptome: Kallisto) or de novo assembly (Trinity), gene expression quantification (FeatureCounts).
+* **Theoretical computer science:**  
+Algorithmics, Graphs, Complexity
 * **Teaching skills:**  
 Design of teaching materials, exercises, exams
 * **Operating Systems:**  
