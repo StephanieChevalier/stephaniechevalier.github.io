@@ -25,7 +25,7 @@ M1 Bioinformatics
 L2 Computer science
 
 
-## Activities around science
+## Involvement in scientific life
 * 2017 & 2018 | Univ. Paris-Saclay  
 For <important>Junior Conference on Data Science and Engineering” (JDSE)</important>: **member** (2017), **co-leader** (2018) **of the junior organizers committee**
 * 2017 & 2018 | Univ. Paris-Saclay  
