@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-## Overview of my thesis
+## Overview of my doctorate
 
 I have contributed in the development of a tool for <important>automatic inference of discrete dynamical models of biological interactions</important>, called <important>BoNesis</important>. This tool makes it possible to **model regulatory mechanisms of biological processes with complex dynamic properties**, such as cell differentiation, by taking into account **knowledge on thousands of genes**.
 
