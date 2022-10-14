@@ -11,7 +11,7 @@ redirect_from:
 
 ## Overview of my thesis
 
-I have contributed to the development of a method (in ASP) to <important>automatically infer discrete dynamical models of biological interactions</important>.
+I have contributed in the development of a tool for <important>automatic inference of discrete dynamical models of biological interactions</important>, called <important>BoNesis</important>. This tool makes it possible to **model regulatory mechanisms of biological processes with complex dynamic properties**, such as cell differentiation, by taking into account **knowledge on thousands of genes**.
 
 [![BoNesis-principle](../images/bonesis_principle.png){:class="img-page"}](https://github.com/bnediction/bonesis)
 
