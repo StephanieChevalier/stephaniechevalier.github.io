@@ -10,7 +10,6 @@ author_profile: true
 **Git**, **SQL** (PostgreSQL, mySQL)  
 **Answer-Set-Programming**  
 **LaTeX**, **markdown**, **HTML/CSS**
-
 * **<important>Machine learning:</important>**  
 **Regression** (lin., polyn., logistic, GLM)  
 **Classification** (decision tree, kNN)  
@@ -18,26 +17,19 @@ author_profile: true
 **Ensemble methods** (random forest)  
 **Dimensionality reduction** (PCA, MDS)  
 **Cross-validation**
-
 * **<important>NGS analysis:</important>**  
 *tertiary:* **Differential Expression analysis** (edgeR, DESeq), **Gene Set Enrichment Analysis** (Metascape), **single-cell data biases**  
 *secondary:* **quality control** (FastQC), **read cleaning** (trimmomatic, cutadapt), **mapping** (genome: STAR; transcriptome: Kallisto) or **de novo assembly** (Trinity), **gene expression quantification** (FeatureCounts)
-
 * **<important>Data analysis tools:</important>**  
 **Data mining** (pandas, numpy, scipy, sklearn, networkx)  
 **Visualisation** (matplotlib, seaborn, graphviz, cytoscape)
-
 * **<important>Public biological databases:</important>**  
 NCBI/EMBL/DDBJ, Gene Ontology, UniProt, DoRothEA, Signor, Reactome, PDB...
-
 * **<important>Theoretical computer science:</important>**  
 **Algorithmics**, **Graphs**, **Complexity**
-
 * **<important>Teaching skills:</important>**  
 Design of teaching materials, exercises, exams
-
 * **<important>Operating Systems:</important>**  
 **Linux** (Debian-based mostly), **Windows**
-
 * **<important>Languages:</important>**  
 **French** (native language), **English**
