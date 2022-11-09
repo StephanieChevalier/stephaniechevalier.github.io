@@ -7,22 +7,32 @@ author_profile: true
 
 ## Experience
 
-* **PhD in <important>systems biology</important>** (10/2018 > 09/2022) - Université Paris-Saclay, LISN (team BioInfo)  &  Institut Curie (Paris), Cancer and Genome (team Computational Systems Biology of Cancer)  
-**Logical inference of Boolean networks from knowledge and observations of cellular differentiation processes**  
-[slides](../files/2022-09_soutenance.pdf) & [thesis](../files/manuscrit-these-pre-soutenance.pdf)  
-Supervisors: Christine Froidevaux (LISN), Loïc Paulevé (LaBRI), Andrei Zinovyev (Institut Curie)
+* **<important>PhD in systems biology</important>** (10/2018 > 09/2022)  
+**Logical inference of Boolean networks from knowledge and observations of cellular differentiation processes.**  
+@ **Université Paris-Saclay**, LISN (team BioInfo) &  
+@ **Institut Curie (Paris)**, Cancer and Genome (team Computational Systems Biology of Cancer)  
+*Supervisors:* **Christine Froidevaux** (LISN), **Loïc Paulevé** (LaBRI), **Andrei Zinovyev** (Institut Curie)  
+[slides](../files/2022-09_soutenance.pdf) & [thesis](../files/manuscrit-these-pre-soutenance.pdf)
 
-* **internship in <important>systems biology</important>** (6mos. in 2018) - Université Paris-Saclay, LRI  
-**By a logical approach (in ASP), identify Boolean networks modeling cell differentiation.** Supervisor: Loïc Paulevé
+* **<important>Internship in systems biology</important>** (6mos. in 2018)  
+**By a logical approach (in ASP), identify Boolean networks modeling cell differentiation.**  
+@ **Université Paris-Saclay**, LRI  
+*Supervisor:* **Loïc Paulevé**
 
-* **internship in <important>structural bioinformatics</important>** (3mos. in 2016) - Lille Faculty of Pharmacy, LIRIC  
-**Study of the structure-function relationship of the human P2RX7 receptor.** Supervisor: Nicolas Renault
+* **<important>Internship in structural bioinformatics</important>** (3mos. in 2016)  
+**Study of the structure-function relationship of the human P2RX7 receptor.**  
+@ **Lille Faculty of Pharmacy**, LIRIC  
+*Supervisor:* **Nicolas Renault**
 
-* **internship in <important>NGS analysis</important>** (1,5mo. in 2015) - Institut Pasteur (Lille)  
-**RNA-seq data analysis and pipeline set up in Galaxy.** Supervisor: Julie Chevalier
+* **<important>Internship in NGS analysis</important>** (1,5mo. in 2015)  
+**RNA-seq data analysis and pipeline set up in Galaxy.**  
+@ **Institut Pasteur (Lille)**  
+*Supervisor:* **Julie Chevalier**
 
-* **internship in <important>data integration</important>** (1d/w for 4mos. in 2015) - Université Paris-Diderot (Paris-Cité), MTi  
-**Create a new biological database to gather information available in public databases linking (human) genes with diseases, metabolic pathways, and proteins.** Supervisor: Karine Audouze
+* **<important>Internship in data integration</important>** (1d/w for 4mos. in 2015)  
+**Create a new biological database to gather information available in public databases linking (human) genes with diseases, metabolic pathways, and proteins.**  
+@ **Université Paris-Diderot (Paris-Cité)**, MTi  
+*Supervisor:* **Karine Audouze**
 
 
 ## Education
