@@ -17,16 +17,23 @@ author_profile: true
 **Ensemble methods** (random forest)  
 **Dimensionality reduction** (PCA, MDS)  
 **Cross-validation**
-* **<important>NGS analysis:</important>**  
-*tertiary:* **Differential Expression analysis** (edgeR, DESeq), **Gene Set Enrichment Analysis** (Metascape), **single-cell data biases**  
-*secondary:* **quality control** (FastQC), **read cleaning** (trimmomatic, cutadapt), **mapping** (genome: STAR; transcriptome: Kallisto) or **de novo assembly** (Trinity), **gene expression quantification** (FeatureCounts)
+* **<important>NGS analysis:</important>**
+    + *<informative>tertiary:</informative>*  
+    **Differential Expression analysis** (edgeR, DESeq)  
+    **Gene Set Enrichment Analysis** (Metascape)  
+    **Single-cell data biases**
+    + *<informative>secondary:</informative>*  
+    **Quality Control** (FastQC)  
+    **Read cleaning** (trimmomatic, cutadapt)  
+    **Mapping** (genome: STAR; transcriptome: Kallisto) or **de novo assembly** (Trinity)  
+    **Gene expression quantification** (FeatureCounts)
 * **<important>Data analysis tools:</important>**  
 **Data mining** (pandas, numpy, scipy, sklearn, networkx)  
 **Visualisation** (matplotlib, seaborn, graphviz, cytoscape)
 * **<important>Public biological databases:</important>**  
 NCBI/EMBL/DDBJ, Gene Ontology, UniProt, DoRothEA, Signor, Reactome, PDB...
 * **<important>Theoretical computer science:</important>**  
-**Algorithmics**, **Graphs**, **Complexity**
+**Algorithmics**, **graphs**, **complexity**
 * **<important>Teaching skills:</important>**  
 Design of teaching materials, exercises, exams
 * **<important>Operating Systems:</important>**  

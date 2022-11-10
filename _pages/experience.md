@@ -5,32 +5,32 @@ permalink: /experience/
 author_profile: true
 ---
 
-## Experience
+## Experience in bioinformatics
 
-* **<important>PhD in systems biology</important>** (10/2018 > 09/2022)  
-**Logical inference of Boolean networks from knowledge and observations of cellular differentiation processes.**  
+* **<important>PhD in computer science (applications in systems biology)</important>** -- 10/2018 to 09/2022  
+**<emphasis>Logical inference of Boolean networks from knowledge and observations of cellular differentiation processes.</emphasis>**  
 @ **Université Paris-Saclay**, LISN (team BioInfo) &  
 @ **Institut Curie (Paris)**, Cancer and Genome (team Computational Systems Biology of Cancer)  
 *Supervisors:* **Christine Froidevaux** (LISN), **Loïc Paulevé** (LaBRI), **Andrei Zinovyev** (Institut Curie)  
 [slides](../files/2022-09_soutenance.pdf) & [thesis](../files/manuscrit-these-pre-soutenance.pdf)
 
-* **<important>Internship in systems biology</important>** (6mos. in 2018)  
-**By a logical approach (in ASP), identify Boolean networks modeling cell differentiation.**  
+* **<important>Internship in systems biology</important>** -- 6mos. in 2018  
+**<emphasis>By a logical approach (in ASP), identify Boolean networks modeling cell differentiation.</emphasis>**  
 @ **Université Paris-Saclay**, LRI  
 *Supervisor:* **Loïc Paulevé**
 
-* **<important>Internship in structural bioinformatics</important>** (3mos. in 2016)  
-**Study of the structure-function relationship of the human P2RX7 receptor.**  
+* **<important>Internship in structural bioinformatics</important>** -- 3mos. in 2016  
+**<emphasis>Study of the structure-function relationship of the human P2RX7 receptor.</emphasis>**  
 @ **Lille Faculty of Pharmacy**, LIRIC  
 *Supervisor:* **Nicolas Renault**
 
-* **<important>Internship in NGS analysis</important>** (1,5mo. in 2015)  
-**RNA-seq data analysis and pipeline set up in Galaxy.**  
+* **<important>Internship in NGS analysis</important>** -- 1,5mo. in 2015  
+**<emphasis>RNA-seq data analysis and pipeline set up in Galaxy.</emphasis>**  
 @ **Institut Pasteur (Lille)**  
 *Supervisor:* **Julie Chevalier**
 
-* **<important>Internship in data integration</important>** (1d/w for 4mos. in 2015)  
-**Create a new biological database to gather information available in public databases linking (human) genes with diseases, metabolic pathways, and proteins.**  
+* **<important>Internship in data integration</important>** -- 1d/w for 4mos. in 2015  
+**<emphasis>Create a new biological database to gather information available in public databases linking (human) genes with diseases, metabolic pathways, and proteins.</emphasis>**  
 @ **Université Paris-Diderot (Paris-Cité)**, MTi  
 *Supervisor:* **Karine Audouze**
 
