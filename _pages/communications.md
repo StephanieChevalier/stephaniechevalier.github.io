@@ -5,7 +5,7 @@ permalink: /communications/
 author_profile: true
 ---
 
-* [Presentation](../files/2022-09_soutenance.pdf) & [Thesis](../files/manuscrit-these-pre-soutenance.pdf) --- 09/2022 --- Univ. Paris-Saclay  
+* [Presentation](../files/2022-09_soutenance.pdf) & [Thesis](../files/manuscrit.pdf) --- 09/2022 --- Univ. Paris-Saclay  
 **<important>PhD defense</important>**
 * [Presentation](../files/2021-07_WAN.pdf), <emphasis>international workshop</emphasis> --- 07/2021 --- Marseille  
 **<important>WAN</important>** <informative>(Workshop on Automata Networks)</informative>

@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 * **<important>Programming:</important>**  
-**Python**, **C**, **C++**, **Bash**, **R**  
-**Git**, **SQL** (PostgreSQL, mySQL)  
+**Python**, **C**, **C++**, **Bash**, **R**, **SQL** (PostgreSQL, mySQL)    
+**Git**, **Jupyter Notebook**  
 **Answer-Set-Programming**  
 **LaTeX**, **markdown**, **HTML/CSS**
 * **<important>Machine learning:</important>**  
