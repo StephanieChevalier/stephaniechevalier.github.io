@@ -12,7 +12,7 @@ author_profile: true
 @ **Université Paris-Saclay**, LISN (team BioInfo) &  
 @ **Institut Curie (Paris)**, Cancer and Genome (team Computational Systems Biology of Cancer)  
 *Supervisors:* **Christine Froidevaux** (LISN), **Loïc Paulevé** (LaBRI), **Andrei Zinovyev** (Institut Curie)  
-[slides](../files/2022-09_soutenance.pdf) & [thesis](../files/manuscrit-these-pre-soutenance.pdf)
+[slides](../files/2022-09_soutenance.pdf) & [thesis](../files/manuscrit.pdf)
 
 * **<important>Internship in systems biology</important>** -- 6mos. in 2018  
 **<emphasis>By a logical approach (in ASP), identify Boolean networks modeling cell differentiation.</emphasis>**  
