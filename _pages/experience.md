@@ -52,7 +52,7 @@ author_profile: true
 03/2020 - CIRM, Marseille
 * CNRS thematic school:
 **Formal Modeling of Biological Regulatory Networks**,
-06/2019 - Île de Porquerolles
+06/2019 - Hyères
 * Course:
 **Computational Systems Biology of Cancer**,
 09/2018 - Institut Curie, Paris
