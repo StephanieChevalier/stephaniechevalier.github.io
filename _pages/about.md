@@ -21,7 +21,7 @@ I trained in bioinformatics with internships in different areas of this discipli
 
 **PhD in computer science for a systems biology issue:** <important>modelling of regulatory mechanisms</important>.
 
-I contributed to a method for <important>automatic inference of discrete dynamical models of biological interactions</important> governing complex cell behaviors, called <important>BoNesis</important>.
+I contributed to <important>a method for automatic inference of discrete dynamical models of biological interactions</important> governing complex cell behaviors, called <important>BoNesis</important>.
 It allows to **model regulatory mechanisms of biological processes with complex dynamic properties**, such as cell differentiation, by taking into account **knowledge on thousands of genes**.
 
 [![BoNesis-principle](../images/bonesis_principle.png){:class="img-page"}](https://github.com/bnediction/bonesis)
