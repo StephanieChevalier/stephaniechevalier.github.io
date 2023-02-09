@@ -11,7 +11,7 @@ redirect_from:
 
 ## Research motivation
 
-<important>High interest in some challenging multisystemic disorders.</important>
+**High interest in some challenging multisystemic disorders.**
 I aim at contributing in related fundamental research and help the translation of basic science results into health care advances.
 
 ## Overview of my doctorate
