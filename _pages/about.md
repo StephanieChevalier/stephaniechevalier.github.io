@@ -18,7 +18,7 @@ Via bioinformatics, I have a special affinity for **the holistic approach of sys
 
 ## Overview of my doctorate
 
-PhD in computer science for a systems biology issue: **dynamical interaction modelling**.
+**PhD in computer science for a systems biology issue:** <important>dynamical interaction modelling</important>.
 
 I contributed to a method for <important>automatic inference of discrete dynamical models of biological interactions</important>, called <important>BoNesis</important>. It allows to **model regulatory mechanisms of biological processes with complex dynamic properties**, such as cell differentiation, by taking into account **knowledge on thousands of genes**.
 
