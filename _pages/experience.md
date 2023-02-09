@@ -14,7 +14,7 @@ author_profile: true
 * **Bachelor’s degree in Bioinformatics**,
 2015, Université Paris-Diderot (Paris-Cité)
 
-I came to Paris-Diderot (now called Paris-Cité) to join the training which was then the only Bachelor's degree in bioinformatics preparing for research and I completed with a Master in Paris-Saclay. I could see different issues of bioinformatics via internships, from **NGS analysis** to **systems biology** via **structural bioinformatics**, while becoming aware of the challenges of **experiment reproducibility**, **data accessibility** and **theoretical computer science** difficulty.
+I came to Paris-Diderot (now called Paris-Cité) to join the training which was then the only Bachelor's degree in bioinformatics preparing for research and I completed my education in Paris-Saclay. I could see different issues of bioinformatics via internships, from **NGS analysis** to **systems biology** via **structural bioinformatics**, while becoming aware of the challenges of **experiment reproducibility**, **data accessibility** and **theoretical computer science** difficulty.
 
 
 ## Experience in bioinformatics
