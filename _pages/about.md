@@ -12,11 +12,11 @@ redirect_from:
 ## Research motivation
 
 <important>High interest in some challenging multisystemic disorders.</important>
-I aim at being involved in related translational research, namely contribute to clinical research via dedicated fundamental research and help the translation of basic science results into health care advances.
+I aim at contributing in related fundamental research and help the translation of basic science results into health care advances.
 
 ## Overview of my doctorate
 
-<important>PhD in computer science for a systems biology issue:</important> **dynamical interaction modelling**.
+PhD in computer science for a systems biology issue: **dynamical interaction modelling**.
 
 I contributed to a method for <important>automatic inference of discrete dynamical models of biological interactions</important>, called <important>BoNesis</important>. It allows to **model regulatory mechanisms of biological processes with complex dynamic properties**, such as cell differentiation, by taking into account **knowledge on thousands of genes**.
 
@@ -26,6 +26,6 @@ This modeling confronts **prior knowledge** on interactions with **observations*
 
 ## Interest in Bioinformatics
 
-Trained in bioinformatics, with internships in different areas of this discipline: the challenge of **data integration**, **NGS analysis**, **structural analysis** for drug design, and finally the one of complex **biological systems analysis and modelling**. I then approached related issues from different viewpoints.
+Trained in bioinformatics with internships in different areas of this discipline: the challenge of **data integration**, **NGS analysis**, **structural analysis** for drug design, and finally the one of complex **biological systems analysis and modelling**. I then approached related issues from different viewpoints.
 
 Main skills developped during the doctorate : **discrete dynamical modelling** and **logic programming**. I also notably became aware of the opportunities and biases of **single-cell data**.
