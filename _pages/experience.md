@@ -5,6 +5,18 @@ permalink: /experience/
 author_profile: true
 ---
 
+## Education
+
+* **PhD in computer science**,
+2022, Université Paris-Saclay
+* **Master’s degree in Bioinformatics**,
+2018, Université Paris-Saclay
+* **Bachelor’s degree in Bioinformatics**,
+2015, Université Paris-Diderot (Paris-Cité)
+
+I came to Paris-Diderot (Paris-Cité) to join the training which was then the only Bachelor's degree in bioinformatics preparing for research and I completed with a Master in Paris-Saclay. I could see different issues of bioinformatics via internships, from **NGS analysis** to **systems biology** via **structural bioinformatics**, while becoming aware of the challenges of **experiment reproducibility**, **data accessibility** and **theoretical computer science** difficulty.
+
+
 ## Experience in bioinformatics
 
 * **<important>PhD in computer science (applications in systems biology)</important>** -- 10/2018 to 09/2022  
@@ -33,16 +45,6 @@ author_profile: true
 **<emphasis>Create a new biological database to gather information available in public databases linking (human) genes with diseases, metabolic pathways, and proteins.</emphasis>**  
 @ **Université Paris-Diderot (Paris-Cité)**, MTi  
 *Supervisor:* **Karine Audouze**
-
-
-## Education
-
-* **PhD in computer science**,
-2022, Université Paris-Saclay
-* **Master’s degree in Bioinformatics**,
-2018, Université Paris-Saclay
-* **Bachelor’s degree in Bioinformatics**,
-2015, Université Paris-Diderot (Paris-Cité)
 
 
 ## Complementary training
