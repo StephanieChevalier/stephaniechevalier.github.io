@@ -9,10 +9,12 @@ redirect_from:
   - /about.html
 ---
 
-## Research motivation
+## Motivation for research
 
 **High interest in some challenging multisystemic disorders.**
 I aim at contributing in related fundamental research and help the translation of basic science results into health care advances.
+
+Via bioinformatics, I have a special affinity for **the holistic approach of systems biology** to unravel and predict biological phenomena.
 
 ## Overview of my doctorate
 
