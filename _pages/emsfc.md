@@ -5,7 +5,8 @@ permalink: /emsfc/
 author_profile: true
 ---
 
-## EM/SFC : synthèses d'articles (journal club en français)
+## EM/SFC : synthèses d'articles  
+Pour journal club en français.
 
 **2023**
    + [![circulating_miRNA](../files/EMSFC/2023-02_Circulating-miRNA_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Circulating-miRNA.pdf)
