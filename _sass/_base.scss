@@ -363,6 +363,14 @@ figure {
   transition: $global-transition;
 }
 
+.img-vignette {
+  width: 40%;
+  border-radius: $border-radius;
+  margin: 0 10px;
+  -webkit-transition: $global-transition;
+  transition: $global-transition;
+}
+
 /* Figure captions */
 
 figcaption {

@@ -11,6 +11,6 @@ I greatly savor every little nice moment due to a particular challenge : an orph
 
 ## Quotations
 
-"The scientist is not the person who gives the right answers, it is the one who asks the right questions." (*"Le savant n'est pas l'homme qui fournit de vraies réponses, c'est celui qui pose les vraies questions."*) ― Claude Levi-Strauss
+"The scientist is not the person who gives the right answers, it is the one who asks the right questions." (*"Le savant n'est pas l'homme qui fournit de vraies réponses, c'est celui qui pose les vraies questions."*) ― Claude Lévi-Strauss
 
 "A woman is human. She is not better, wiser, stronger, more intelligent, more creative, or more responsible than a man. Likewise, she is never less. Equality is a given. A woman is human." ― Vera Nazarian
