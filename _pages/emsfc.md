@@ -9,7 +9,7 @@ author_profile: true
 Pour journal club en français.
 
 **2023**
-   + [![circRNA](../files/EMSFC/2023-06_circRNA_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_circRNA.pdf)
+   + [![circRNA](../files/EMSFC/2023-06_circRNA_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_circRNA.html)
    + [![butyrate_dysbiosis](../files/EMSFC/2023-02_Gut-microbiome-butyrate_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Gut-microbiome-butyrate.pdf)
    + [![circulating_miRNA](../files/EMSFC/2023-02_Circulating-miRNA_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Circulating-miRNA.pdf)
    + [![endothelial_dysfonction](../files/EMSFC/2023-02_Endothelial-dysfonction_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Endothelial-dysfonction.pdf)
