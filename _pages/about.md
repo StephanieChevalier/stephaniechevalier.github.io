@@ -8,16 +8,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Postdoctoral fellow @ Servier (pharmaceutical firm)
 
-## Motivation for research
+I am involved in the concrete needs of therapeutic solution research to **predict the behavior of a biological system when subjected to perturbations**. I contribute to the <important>development of network modelling approach</important>, notably for the prediction of <important>drug combinations</important>.
 
-**High interest in some challenging multisystemic disorders.**
-I aim at contributing in related fundamental research and helping the translation of basic science results into health care advances.
+<hr class="hr_gradient" />
 
-I have a special affinity for **the holistic approach of systems biology** to unravel and predict biological phenomena.
-I trained in bioinformatics and had internships in different areas of this discipline: the challenge of **data integration**, **NGS analysis**, **structural analysis** for drug design, and finally the one of complex **biological systems analysis and modelling**. I then approached related issues from different viewpoints.
+## Motivation
 
-## Overview of my doctorate
+<span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">High interest in multisystemic disorders.</span> I aim at contributing in related fundamental research and helping **the translation of basic science results into health care advances**.
+
+<span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">Special affinity for the holistic approach of systems biology</span> to unravel and predict biological phenomena.
+I trained in bioinformatics and had internships in different areas of this discipline: the challenge of **data integration**, **NGS analysis**, **structural analysis** for drug design, and finally the one of complex **biological systems analysis and modelling**. I then approached related issues from different viewpoints.  
+
+<hr class="hr_gradient" />
+
+## PhD topic
 
 **PhD in computer science for a systems biology issue:** <important>modelling of regulatory mechanisms</important>.
 
