@@ -9,8 +9,10 @@ My main personality trait is certainly <important>curiosity</important>. For **b
 
 I greatly savor every little nice moment due to a particular challenge : an orphan disease greatly limits my daily life and disrupts it in an always unpredictable way. But that hasn't stopped me from getting here! Just don't be surprised by my energy and ability changes depending on the day or hour. Bouncy and full of life whenever I can, but often being unable to move and speak properly... My body is on strike and negotiations are mostly not in my favor.
 
-## Meaningful quotations to me
+## Jumble of liked quotations
 
 "The scientist is not the person who gives the right answers, it is the one who asks the right questions." ― Claude Lévi-Strauss
+
+"To call in the statistician after the experiment is done may be no more than asking him to perform a post-mortem examination: he may be able to say what the experiment died of." ― Ronald Fisher
 
 "A woman is human. She is not better, wiser, stronger, more intelligent, more creative, or more responsible than a man. Likewise, she is never less. Equality is a given. A woman is human." ― Vera Nazarian
