@@ -9,6 +9,7 @@ author_profile: true
 Pour journal club en français.
 
 **2023**
+   + [![tcell](../files/EMSFC/2023-07_Tcell_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-07_Tcell.html)
    + [![acylcarnitine](../files/EMSFC/2023-06_acylcarnitine_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_acylcarnitine.html)
    + [![circRNA](../files/EMSFC/2023-06_circRNA_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_circRNA.html)
    + [![gdf15](../files/EMSFC/2023-03_GDF15-differentiate-patients_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-03_GDF15-differentiate-patients.html)
