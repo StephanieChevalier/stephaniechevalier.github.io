@@ -21,3 +21,6 @@ Pour journal club en français.
 **2022**
    +  [![transcriptomic-changes](../files/EMSFC/2022-12_Muscle-sodium-content_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-12_Muscle-sodium-content.pdf)
    + [![oxygen_biomarker](../files/EMSFC/2022-03_Oxygen-biomarker_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-03_Oxygen-biomarker.pdf)
+
+**2016**
+   +  [![MM-vs-SFC](../files/EMSFC/2016-06_MM-vs-SFC_vignette.png){:class="img-vignette"}](../files/EMSFC/2016-06_MM-vs-SFC.html)
