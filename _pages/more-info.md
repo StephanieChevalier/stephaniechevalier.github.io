@@ -7,7 +7,7 @@ author_profile: true
 
 My main personality trait is certainly <important>curiosity</important>. For **biology** and **computer science** of course, but also for **pedagogy**, **linguistics**, **history**, **urbanism**... I like wandering through various topics but also, in a more palpable way, through various landscapes during **hikes** (combined with the pleasure of **photography**, as you can guess from this website section headers). I'm not able to play tennis anymore but in default I like following **tennis** and **rugby** news. I also cook a lot and I really enjoy **sharing good dishes**. I look forward to continuing my discovery of **new places, countries and landscapes, new people and ways of life**.
 
-I greatly savor every little nice moment due to a particular challenge : an orphan disease greatly limits my daily life and disrupts it in an always unpredictable way. Don't be surprised by my changes in energy and ability depending on the day or hour: from being lively and bouncy whenever I can, to often struggling with basic tasks like walking and talking. But this challenge hasn't prevented me from making it this far!
+I greatly savor every little nice moment due to a particular challenge : an orphan disease greatly limits my daily life and disrupts it in an always unpredictable way. Don't be surprised by my changes in energy and ability depending on the day or hour: from being lively and bouncy whenever I can, to struggling with basic tasks like walking and talking. But this challenge hasn't prevented me from making it this far!
 
 <hr class="hr_gradient" />
 
