@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Postdoctoral fellow @ Servier (pharmaceutical firm)
+## Postdoctoral fellow @ Servier
 
 I am involved in the concrete needs of therapeutic solution research to **predict the behavior of a biological system when subjected to perturbations**. I contribute to the <important>development of network modelling approach</important>, notably for the prediction of <important>drug combinations</important>.
 
