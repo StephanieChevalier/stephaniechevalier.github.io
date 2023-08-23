@@ -10,7 +10,7 @@ redirect_from:
 ---
 ## Postdoctoral fellow @ Servier
 
-I am involved in the concrete needs of therapeutic solution research to **predict the behavior of a biological system when subjected to perturbations**. I contribute to the <important>development of network modelling approach</important>, notably for the prediction of <important>drug combinations</important>.
+<span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">Assist in drug combination strategies through interaction network modeling</span> and involved in the concrete needs of therapeutic solution research to **predict the behavior of a biological system when subjected to perturbations**.
 
 <hr class="hr_gradient" />
 
