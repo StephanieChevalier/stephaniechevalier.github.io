@@ -26,28 +26,30 @@ author_profile: true
 <small_emphasis>(pour journal club en français)</small_emphasis>
 
 ### --- 2023 ---
-   + [![tcell](../files/EMSFC/2023-07_Tcell_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-07_Tcell.html)  
-   <hr/>
-   + [![acylcarnitine](../files/EMSFC/2023-06_acylcarnitine_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_acylcarnitine.html)  
-   <!--<hr/>
-   + [![circRNA](../files/EMSFC/2023-06_circRNA_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_circRNA.html)  -->
-   <hr/>
-   + [![gdf15](../files/EMSFC/2023-03_GDF15-differentiate-patients_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-03_GDF15-differentiate-patients.html)  
-   <hr/>
-   + [![butyrate_dysbiosis](../files/EMSFC/2023-02_Gut-microbiome-butyrate_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Gut-microbiome-butyrate.html)  
-   <hr/>
-   + [![circulating_miRNA](../files/EMSFC/2023-02_Circulating-miRNA_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Circulating-miRNA.pdf)  
-   <hr/>
-   + [![endothelial_dysfonction](../files/EMSFC/2023-02_Endothelial-dysfonction_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Endothelial-dysfonction.pdf)  
-   <hr/>
-   + [![transcriptomic-changes](../files/EMSFC/2023-01_Exercice-transcriptomic-changes_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-01_Exercice-transcriptomic-changes.pdf)
+Résultats positifs (i.e. résultat statistiquement significatif qui appuie une hypothèse)
+    + [![acylcarnitine](../files/EMSFC/2023-06_acylcarnitine_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_acylcarnitine.html)  
+    <hr/>
+    + [![butyrate_dysbiosis](../files/EMSFC/2023-02_Gut-microbiome-butyrate_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Gut-microbiome-butyrate.html)  
+    <hr/>
+    + [![gdf15](../files/EMSFC/2023-03_GDF15-differentiate-patients_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-03_GDF15-differentiate-patients.html)  
+    <hr/>
+    + [![circulating_miRNA](../files/EMSFC/2023-02_Circulating-miRNA_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Circulating-miRNA.pdf)  
+    <hr/>
+    + [![transcriptomic-changes](../files/EMSFC/2023-01_Exercice-transcriptomic-changes_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-01_Exercice-transcriptomic-changes.pdf)
+    + [![endothelial_dysfonction](../files/EMSFC/2023-02_Endothelial-dysfonction_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Endothelial-dysfonction.pdf)  
+
+Résultats négatifs (i.e. résultat n'ayant pas permis de confirmer une hypothèse)
+    + [![tcell](../files/EMSFC/2023-07_Tcell_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-07_Tcell.html)  
+    <!-- + [![circRNA](../files/EMSFC/2023-06_circRNA_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_circRNA.html)  
+    <hr/>-->
 
 
 ### --- 2022 ---
+Résultats positifs (i.e. résultat statistiquement significatif qui appuie une hypothèse)
    +  [![transcriptomic-changes](../files/EMSFC/2022-12_Muscle-sodium-content_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-12_Muscle-sodium-content.pdf)  
    <hr/>
    + [![oxygen_biomarker](../files/EMSFC/2022-03_Oxygen-biomarker_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-03_Oxygen-biomarker.pdf)
 
 
-### --- 2016 ---
-   +  [![MM-vs-SFC](../files/EMSFC/2016-06_MM-vs-SFC_vignette.png){:class="img-vignette"}](../files/EMSFC/2016-06_MM-vs-SFC.html)
+<!--### --- 2016 ---
+   +  [![MM-vs-SFC](../files/EMSFC/2016-06_MM-vs-SFC_vignette.png){:class="img-vignette"}](../files/EMSFC/2016-06_MM-vs-SFC.html)-->
