@@ -9,7 +9,7 @@ author_profile: true
 
 <hr class="hr_gradient" />
 
-## Travaux non encore résumés :
+## Travaux à feuilleter (résumé à venir) :
 
 **Immuno / endocrino :**
    - [Autoantibodies to selenoprotein P in chronic fatigue syndrome suggest selenium transport impairment and acquired resistance to thyroid hormone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/), Sun et al., Redox Biology, 2023/07
@@ -29,8 +29,8 @@ author_profile: true
    + [![tcell](../files/EMSFC/2023-07_Tcell_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-07_Tcell.html)  
    <hr/>
    + [![acylcarnitine](../files/EMSFC/2023-06_acylcarnitine_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_acylcarnitine.html)  
-   <hr/>
-   + [![circRNA](../files/EMSFC/2023-06_circRNA_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_circRNA.html)  
+   <!--<hr/>
+   + [![circRNA](../files/EMSFC/2023-06_circRNA_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_circRNA.html)  -->
    <hr/>
    + [![gdf15](../files/EMSFC/2023-03_GDF15-differentiate-patients_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-03_GDF15-differentiate-patients.html)  
    <hr/>
