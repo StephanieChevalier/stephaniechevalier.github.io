@@ -15,7 +15,10 @@ author_profile: true
    - [Autoantibodies to selenoprotein P in chronic fatigue syndrome suggest selenium transport impairment and acquired resistance to thyroid hormone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/), Sun et al., Redox Biology, 2023/07
 
 **Neuro :**  
-   - Travaux de Angus Mackay :
+   - Hyperbaric oxygen therapy :
+       - [Hyperbaric oxygen therapy improves neurocognitive functions and symptoms of post-COVID condition: randomized controlled trial](https://www.nature.com/articles/s41598-022-15565-0), Nature Scientific Reports, 2022/07
+       - [Reversible widespread brain 18F-FDG PET hypometabolism in chronic fatigue syndrome treated by hyperbaric oxygen therapy](https://link.springer.com/article/10.1007/s00259-020-05122-0), European Journal of Nuclear Medicine and Molecular Imaging, 2021/05
+   - Travaux de Angus Mackay sur la neuroinflammation :
        - [A neuroinflammatory paradigm can explain Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Post-COVID-19 Fatigue Syndrome](https://ourarchive.otago.ac.nz/handle/10523/15089), manuscrit de thèse, 2023/03
        - [A Paradigm for Post-Covid-19 Fatigue Syndrome Analogous to ME/CFS](https://www.frontiersin.org/articles/10.3389/fneur.2021.701419/full), Frontiers in Neurology, 2021/08
        - [A neuro-inflammatory model can explain the onset, symptoms and flare-ups of myalgic encephalomyelitis/chronic fatigue syndrome](https://www.publish.csiro.au/hc/HC19041), J. of Primary Health Care, 2019/11
