@@ -82,21 +82,24 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic;'>(i.
 
 <hr class="hr_gradient" />
 
-## Aperçu de l'état de l'art
+## Aperçu de l'état de l'art :
+<small_emphasis>(retranscription de propos de Jonas Bergquist et Jarred Younger)</small_emphasis>
 
 ----
 
-### Ce que l'on sait aujourd'hui, en 2023 :
+### Ce que l'on sait aujourd'hui, en 2023
 - Dans la plupart des cas (60-70%), événement de fatigue post-viral
 - Plus fréquent chez les femmes que chez les hommes (2/3)
-- Observations d'altérations dans :
-    + le système nerveux central et autonome
-    + le métabolisme, en particulier le métabolisme énergétique (notamment, élévation du niveaux de lactate dès l'effort léger)
+- Observations d'anomalies dans :
+    + le métabolisme, en particulier le métabolisme énergétique  
+    <span style='font-size:smaller;'>(notamment, élévation du niveau de lactate dès l'effort léger)</span>
     + les phénotypes et fonctions immunitaires
     + le microbiome intestinal
+    + le système nerveux central et autonome  
+    <span style='font-size:smaller;'>(notamment, élévation du niveau de lactate dans le liquide cérébrospinal d'un sous-ensemble important de patients, inflammation cérébrale - sans niveau dangereusement élevé et sans neurodégénérescence)</span>
     + l'expression de gènes parallèlement à des changements épigénétiques
 
-### Ce que l'on ne sait pas aujourd'hui, en 2023 :
+### Ce que l'on ne sait pas aujourd'hui, en 2023
 - Quels sont exactement les mécanismes qui provoquent les symptômes de la maladie ?
 - Qu'est-ce qui entraîne les changements observés dans cette maladie multisystémique ?
 - Quel est le lien entre les altérations observées et quel est (sont) le(s) déclencheur(s) ?
