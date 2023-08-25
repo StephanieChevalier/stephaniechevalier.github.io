@@ -33,14 +33,14 @@ author_profile: true
 
 ### <span style='font-size: larger;'>Immunologie</span>
 
-Résultats positifs <span style='font-weight: lighter; font-style: italic;'>(i.e. résultat statistiquement significatif qui appuie une hypothèse)</span> :
+Résultats positifs <span style='font-weight: lighter; font-style: italic; font-size:smaller;'>(i.e. résultat statistiquement significatif qui appuie une hypothèse)</span> :
   + 06/2023: <important>Altération de l'influx calcique dépendant du TRPM7 dans les lymphocytes NK de patients EM/SFC.</important>  
   [![TRPM7-alteration](../files/EMSFC/2023-06_TRPM7_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_TRPM7.html)  
   <hr/>
   + 01/2023: <important>Les changements transcriptomiques induits par l'exercice chez des femmes EM/SFC révèlent des signatures immunitaires perturbées.</important>  
   [![transcriptomic-changes](../files/EMSFC/2023-01_Exercice-transcriptomic-changes_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-01_Exercice-transcriptomic-changes.pdf)
 
-Résultats négatifs <span style='font-weight: lighter; font-style: italic;'>(i.e. résultat n'ayant pas permis de confirmer une hypothèse)</span> :
+Résultats négatifs <span style='font-weight: lighter; font-style: italic; font-size:smaller;'>(i.e. résultat n'ayant pas permis de confirmer une hypothèse)</span> :
   + 07/2023: <important>Comparaison de la diversité des récepteurs des lymphocytes T entre EM/SFC et témoins.</important>  
   [![tcell](../files/EMSFC/2023-07_Tcell_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-07_Tcell.html)
 
