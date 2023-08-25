@@ -79,3 +79,26 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic;'>(i.
 
 <!-- + [![circRNA](../files/EMSFC/2023-06_circRNA_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_circRNA.html)  
 <hr/>-->
+
+<hr class="hr_gradient" />
+
+## État de l'art
+
+----
+
+### Ce que l'on sait aujourd'hui, en 2023 :
+- Dans la plupart des cas (60-70%), événement de fatigue post-viral
+- Plus fréquent chez les femmes que chez les hommes (2/3)
+- Observations d'altérations dans :
+    + le système nerveux central et autonome
+    + le métabolisme, en particulier le métabolisme énergétique (notamment, élévation du niveaux de lactate dès l'effort léger)
+    + les phénotypes et fonctions immunitaires
+    + le microbiome intestinal
+    + l'expression de gènes parallèlement à des changements épigénétiques
+
+### Ce que l'on ne sait pas aujourd'hui, en 2023 :
+- Quels sont exactement les mécanismes qui provoquent les symptômes de la maladie ?
+- Qu'est-ce qui entraîne les changements observés dans cette maladie multisystémique ?
+- Quel est le lien entre les altérations observées et quel est (sont) le(s) déclencheur(s) ?
+- Existe-t-il une explication commune à tous les symptômes qui pourrait répondre à une thérapie ?
+- Pourrait-on trouver un biomarqueur diagnostic, prédictif, voire même préventif ?
