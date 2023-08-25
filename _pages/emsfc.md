@@ -47,7 +47,7 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic;'>(i.
   + <important>Comparaison des taux sériques d'acylcarnitine chez patients EM/SFC vs témoins : revue systématique et méta-analyse.</important>  
   [![acylcarnitine](../files/EMSFC/2023-06_acylcarnitine_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_acylcarnitine.html)  
   <hr/>
-  + <important>Différencier la myopathie mitochondriale primaire (se manifestant par intolérance à l'effort et fatigue) de l'EM/SFC grâce au taux sériques de GDF-15.</important>  
+  + <important>Différencier la myopathie mitochondriale primaire (se manifestant par intolérance à l'effort et fatigue) de l'EM/SFC grâce aux taux sériques de GDF-15.</important>  
   [![gdf15](../files/EMSFC/2023-03_GDF15-differentiate-patients_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-03_GDF15-differentiate-patients.html)  
   <hr/>
   + <important>La consommation d'oxygène comme biomarqueur pour le diagnostic de la fatigue chronique.</important>  
