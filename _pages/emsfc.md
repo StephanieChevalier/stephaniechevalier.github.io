@@ -12,18 +12,21 @@ author_profile: true
 ## Travaux à feuilleter (résumé à venir) :
 
 **Immuno / endocrino :**
-   - [Autoantibodies to selenoprotein P in chronic fatigue syndrome suggest selenium transport impairment and acquired resistance to thyroid hormone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/), Sun et al., Redox Biology, 2023/07
+   - [Des autoanticorps dirigés contre la sélénoprotéine P dans le syndrome de fatigue chronique suggèrent une altération du transport du sélénium et une résistance acquise à l'hormone thyroïdienne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/), Sun et al., Redox Biology, 2023/07
+
+**Métabolisme :**
+   - [WASF3 perturbe la respiration mitochondriale et peut contribuer à l'intolérance à l'exercice dans l'encéphalomyélite myalgique/syndrome de fatigue chronique](https://www.pnas.org/doi/10.1073/pnas.2302738120), PNAS, 2023/06
 
 **Neuro :**  
    - Hyperbaric oxygen therapy :
-       - [Hyperbaric oxygen therapy improves neurocognitive functions and symptoms of post-COVID condition: randomized controlled trial](https://www.nature.com/articles/s41598-022-15565-0), Nature Scientific Reports, 2022/07
-       - [Reversible widespread brain 18F-FDG PET hypometabolism in chronic fatigue syndrome treated by hyperbaric oxygen therapy](https://link.springer.com/article/10.1007/s00259-020-05122-0), European Journal of Nuclear Medicine and Molecular Imaging, 2021/05
+       - [Une thérapie d'oxygénothérapie hyperbare améliore les fonctions neurocognitives et les symptômes de l'état post-COVID : essai contrôlé randomisé](https://www.nature.com/articles/s41598-022-15565-0), Nature Scientific Reports, 2022/07
+       - [Hypométabolisme cérébral généralisé (TEP 18F-FDG) dans le syndrome de fatigue chronique traité par oxygénothérapie hyperbare](https://link.springer.com/article/10.1007/s00259-020-05122-0), European Journal of Nuclear Medicine and Molecular Imaging, 2021/05
    - Travaux de Angus Mackay sur la neuroinflammation :
-       - [A neuroinflammatory paradigm can explain Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Post-COVID-19 Fatigue Syndrome](https://ourarchive.otago.ac.nz/handle/10523/15089), manuscrit de thèse, 2023/03
-       - [A Paradigm for Post-Covid-19 Fatigue Syndrome Analogous to ME/CFS](https://www.frontiersin.org/articles/10.3389/fneur.2021.701419/full), Frontiers in Neurology, 2021/08
-       - [A neuro-inflammatory model can explain the onset, symptoms and flare-ups of myalgic encephalomyelitis/chronic fatigue syndrome](https://www.publish.csiro.au/hc/HC19041), J. of Primary Health Care, 2019/11
-       - [Current Research Provides Insight into the Biological Basis and Diagnostic Potential for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)](https://www.mdpi.com/2075-4418/9/3/73), Diagnostics, 2019/07
-   - [Cerebral blood flow is reduced in ME/CFS during head-up tilt testing even in the absence of hypotension or tachycardia: A quantitative, controlled study using Doppler echography](https://www.sciencedirect.com/science/article/pii/S2467981X20300044), Clinical Neurophysiology Practice, 2020/01
+       - [Un paradigme neuroinflammatoire peut expliquer l'EM/SFC et le syndrome de fatigue post-COVID-19](https://ourarchive.otago.ac.nz/handle/10523/15089), manuscrit de thèse, 2023/03
+       - [Un paradigme pour le syndrome de fatigue post-Covid-19 analogue à l'EM/SFC](https://www.frontiersin.org/articles/10.3389/fneur.2021.701419/full), Frontiers in Neurology, 2021/08
+       - [Un modèle neuro-inflammatoire peut expliquer l'apparition, les symptômes et les poussées de l'EM/SFC](https://www.publish.csiro.au/hc/HC19041), J. of Primary Health Care, 2019/11
+       - [Les recherches actuelles donnent un aperçu des bases biologiques et du potentiel diagnostique de l'EM/SFC](https://www.mdpi.com/2075-4418/9/3/73), Diagnostics, 2019/07
+   - [Le flux sanguin cérébral est réduit dans l'EM/SFC lors du test d'inclinaison tête haute, même en l'absence d'hypotension ou de tachycardie : étude quantitative contrôlée utilisant l'échographie Doppler](https://www.sciencedirect.com/science/article/pii/S2467981X20300044), Clinical Neurophysiology Practice, 2020/01
 
 <hr class="hr_gradient" />
 
