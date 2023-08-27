@@ -24,7 +24,7 @@ author_profile: true
    - Travaux de Angus Mackay sur la neuroinflammation :
        - [Un paradigme neuroinflammatoire peut expliquer l'EM/SFC et le syndrome de fatigue post-COVID-19](https://ourarchive.otago.ac.nz/handle/10523/15089), manuscrit de thèse, 2023/03
        - [Un paradigme pour le syndrome de fatigue post-Covid-19 analogue à l'EM/SFC](https://www.frontiersin.org/articles/10.3389/fneur.2021.701419/full), Frontiers in Neurology, 2021/08
-       - [Un modèle neuro-inflammatoire peut expliquer l'apparition, les symptômes et les poussées de l'EM/SFC](https://www.publish.csiro.au/hc/HC19041), J. of Primary Health Care, 2019/11
+       - [Un modèle neuro-inflammatoire peut expliquer l'apparition, les symptômes et les poussées de l'EM/SFC](https://www.publish.csiro.au/hc/HC19041), Journal of Primary Health Care, 2019/11
        - [Les recherches actuelles donnent un aperçu des bases biologiques et du potentiel diagnostique de l'EM/SFC](https://www.mdpi.com/2075-4418/9/3/73), Diagnostics, 2019/07
    - [Le flux sanguin cérébral est réduit dans l'EM/SFC lors du test d'inclinaison tête haute, même en l'absence d'hypotension ou de tachycardie : étude quantitative contrôlée utilisant l'échographie Doppler](https://www.sciencedirect.com/science/article/pii/S2467981X20300044), Clinical Neurophysiology Practice, 2020/01
 
