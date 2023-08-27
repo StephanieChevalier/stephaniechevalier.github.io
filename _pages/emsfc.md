@@ -12,7 +12,7 @@ author_profile: true
 ## Travaux à feuilleter (résumé à venir) :
 
 **Immuno / endocrino :**
-   - [Des autoanticorps dirigés contre la sélénoprotéine P dans le syndrome de fatigue chronique suggèrent une altération du transport du sélénium et une résistance acquise à l'hormone thyroïdienne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/), Sun et al., Redox Biology, 2023/07
+   - [Des autoanticorps dirigés contre la sélénoprotéine P dans le syndrome de fatigue chronique suggèrent une altération du transport du sélénium et une résistance acquise à l'hormone thyroïdienne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/), Redox Biology, 2023/07
 
 **Métabolisme :**
    - [WASF3 perturbe la respiration mitochondriale et peut contribuer à l'intolérance à l'exercice dans l'encéphalomyélite myalgique/syndrome de fatigue chronique](https://www.pnas.org/doi/10.1073/pnas.2302738120), PNAS, 2023/06
