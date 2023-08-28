@@ -5,28 +5,28 @@ permalink: /emsfc/
 author_profile: true
 ---
 
-# Veille bibliographique sur l'EM/SFC
+# Veille bibliographique sur EM/SFC et COVID long
 
 <hr class="hr_gradient" />
 
 ## Travaux à feuilleter (résumé à venir) :
 
-**Immuno / endocrino :**
-   - [Des autoanticorps dirigés contre la sélénoprotéine P dans le syndrome de fatigue chronique suggèrent une altération du transport du sélénium et une résistance acquise à l'hormone thyroïdienne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/), Redox Biology, 2023/07
-
-**Métabolisme :**
-   - [WASF3 perturbe la respiration mitochondriale et peut contribuer à l'intolérance à l'exercice dans l'encéphalomyélite myalgique/syndrome de fatigue chronique](https://www.pnas.org/doi/10.1073/pnas.2302738120), PNAS, 2023/06
-
 **Neuro :**  
    - Hyperbaric oxygen therapy :
-       - [Une thérapie d'oxygénothérapie hyperbare améliore les fonctions neurocognitives et les symptômes de l'état post-COVID : essai contrôlé randomisé](https://www.nature.com/articles/s41598-022-15565-0), Nature Scientific Reports, 2022/07
-       - [Hypométabolisme cérébral généralisé (TEP 18F-FDG) dans le syndrome de fatigue chronique traité par oxygénothérapie hyperbare](https://link.springer.com/article/10.1007/s00259-020-05122-0), European Journal of Nuclear Medicine and Molecular Imaging, 2021/05
+       - <span class="blue_accent">[Une thérapie d'oxygénothérapie hyperbare améliore les fonctions neurocognitives et les symptômes de l'état post-COVID : essai contrôlé randomisé](https://www.nature.com/articles/s41598-022-15565-0)</span>, Nature Scientific Reports, 2022/07
+       - <span class="blue_accent">[Hypométabolisme cérébral généralisé (TEP 18F-FDG) dans le syndrome de fatigue chronique traité par oxygénothérapie hyperbare](https://link.springer.com/article/10.1007/s00259-020-05122-0)</span>, European Journal of Nuclear Medicine and Molecular Imaging, 2021/05
    - Travaux de Angus Mackay sur la neuroinflammation :
-       - [Un paradigme neuroinflammatoire peut expliquer l'EM/SFC et le syndrome de fatigue post-COVID-19](https://ourarchive.otago.ac.nz/handle/10523/15089), manuscrit de thèse, 2023/03
-       - [Un paradigme pour le syndrome de fatigue post-Covid-19 analogue à l'EM/SFC](https://www.frontiersin.org/articles/10.3389/fneur.2021.701419/full), Frontiers in Neurology, 2021/08
-       - [Un modèle neuro-inflammatoire peut expliquer l'apparition, les symptômes et les poussées de l'EM/SFC](https://www.publish.csiro.au/hc/HC19041), Journal of Primary Health Care, 2019/11
-       - [Les recherches actuelles donnent un aperçu des bases biologiques et du potentiel diagnostique de l'EM/SFC](https://www.mdpi.com/2075-4418/9/3/73), Diagnostics, 2019/07
-   - [Le flux sanguin cérébral est réduit dans l'EM/SFC lors du test d'inclinaison tête haute, même en l'absence d'hypotension ou de tachycardie : étude quantitative contrôlée utilisant l'échographie Doppler](https://www.sciencedirect.com/science/article/pii/S2467981X20300044), Clinical Neurophysiology Practice, 2020/01
+       - <span class="blue_accent">[Un paradigme neuroinflammatoire peut expliquer l'EM/SFC et le syndrome de fatigue post-COVID-19](https://ourarchive.otago.ac.nz/handle/10523/15089)</span>, manuscrit de thèse, 2023/03, regroupant :
+           - <span style='font-size:smaller;'>[Un paradigme pour le syndrome de fatigue post-Covid-19 analogue à l'EM/SFC](https://www.frontiersin.org/articles/10.3389/fneur.2021.701419/full), Frontiers in Neurology, 2021/08</span>
+           - <span style='font-size:smaller;'>[Un modèle neuro-inflammatoire peut expliquer l'apparition, les symptômes et les poussées de l'EM/SFC](https://www.publish.csiro.au/hc/HC19041), Journal of Primary Health Care, 2019/11</span>
+           - <span style='font-size:smaller;'>[Les recherches actuelles donnent un aperçu des bases biologiques et du potentiel diagnostique de l'EM/SFC](https://www.mdpi.com/2075-4418/9/3/73), Diagnostics, 2019/07</span>
+   - <span class="blue_accent">[Le flux sanguin cérébral est réduit dans l'EM/SFC lors du test d'inclinaison tête haute, même en l'absence d'hypotension ou de tachycardie : étude quantitative contrôlée utilisant l'échographie Doppler](https://www.sciencedirect.com/science/article/pii/S2467981X20300044)</span>, Clinical Neurophysiology Practice, 2020/01
+
+**Immuno / endocrino :**
+   - <span class="blue_accent">[Des autoanticorps dirigés contre la sélénoprotéine P dans le syndrome de fatigue chronique suggèrent une altération du transport du sélénium et une résistance acquise à l'hormone thyroïdienne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/)</span>, Redox Biology, 2023/07
+
+**Métabolisme :**
+   - <span class="blue_accent">[WASF3 perturbe la respiration mitochondriale et peut contribuer à l'intolérance à l'exercice dans l'encéphalomyélite myalgique/syndrome de fatigue chronique](https://www.pnas.org/doi/10.1073/pnas.2302738120)</span>, PNAS, 2023/06
 
 <hr class="hr_gradient" />
 
