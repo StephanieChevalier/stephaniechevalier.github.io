@@ -27,6 +27,7 @@ author_profile: true
 
 **Métabolisme :**
    - <span class="blue_accent">[WASF3 perturbe la respiration mitochondriale et peut contribuer à l'intolérance à l'exercice dans l'encéphalomyélite myalgique/syndrome de fatigue chronique](https://www.pnas.org/doi/10.1073/pnas.2302738120)</span>, PNAS, 2023/06
+   - <span class="blue_accent">[Un déséquilibre redox relie COVID-19 et l'EM/SFC](https://www.pnas.org/doi/full/10.1073/pnas.2024358118)</span>, PNAS, 2021/06
 
 <hr class="hr_gradient" />
 
