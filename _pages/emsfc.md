@@ -92,7 +92,7 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic; font
 
 <hr class="hr_gradient" />
 
-## Aperçu de l'état de l'art :
+## "État des lieux" :
 
 ----
 
