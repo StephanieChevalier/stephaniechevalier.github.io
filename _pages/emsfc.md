@@ -22,6 +22,9 @@ author_profile: true
            - <span style='font-size:smaller;'>[Les recherches actuelles donnent un aperçu des bases biologiques et du potentiel diagnostique de l'EM/SFC](https://www.mdpi.com/2075-4418/9/3/73), Diagnostics, 2019/07</span>
    - <span class="blue_accent">[Le flux sanguin cérébral est réduit dans l'EM/SFC lors du test d'inclinaison tête haute, même en l'absence d'hypotension ou de tachycardie : étude quantitative contrôlée utilisant l'échographie Doppler](https://www.sciencedirect.com/science/article/pii/S2467981X20300044)</span>, Clinical Neurophysiology Practice, 2020/01
 
+**Immuno / gastro:**
+   - <span class="blue_accent">[Augmentation de la perméabilité intestinale et translocation bactérienne sont associées à la fibromyalgie et à l'EM/SFC : implications pour la découverte de biomarqueurs liés à la maladie](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1253121/abstract)</span>, Frontiers in Immunology, 2023/08
+
 **Immuno / endocrino :**
    - <span class="blue_accent">[Des autoanticorps dirigés contre la sélénoprotéine P dans le syndrome de fatigue chronique suggèrent une altération du transport du sélénium et une résistance acquise à l'hormone thyroïdienne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/)</span>, Redox Biology, 2023/07
 
