@@ -93,11 +93,10 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic; font
 <hr class="hr_gradient" />
 
 ## Aperçu de l'état de l'art :
-<small_emphasis>(retranscription de propos de Jonas Bergquist et Jarred Younger)</small_emphasis>
 
 ----
 
-### Ce que l'on sait aujourd'hui, en 2023
+### Ce que l'on sait aujourd'hui, en 2023 <span style='font-size: smaller;font-style: italic;font-weight: lighter;'>(retranscription de propos de Jonas Bergquist et Jarred Younger)</span>
 - Dans la plupart des cas (60-70%), événement de fatigue post-viral
 - Plus fréquent chez les femmes que chez les hommes (2/3)
 - Observations d'anomalies dans :
