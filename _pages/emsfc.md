@@ -110,8 +110,8 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic; font
     + l'expression de gènes parallèlement à des changements épigénétiques
 
 ### Ce que l'on ne sait pas aujourd'hui, en 2023
-- Quels sont exactement les mécanismes qui provoquent les symptômes de la maladie ?
-- Qu'est-ce qui entraîne les changements observés dans cette maladie multisystémique ?
-- Quel est le lien entre les altérations observées et quel est (sont) le(s) déclencheur(s) ?
+- Mécanismes à l'origine des anomalies observées dans cette maladie multi-systémique ?
+- Mécanismes qui relient ces anomalies d'apparence hétéroclites ?
+- Liens entre anomalies et symptômes ?
 - Existe-t-il une explication commune à tous les symptômes qui pourrait répondre à une thérapie ?
-- Pourrait-on trouver un biomarqueur diagnostic, prédictif, voire même préventif ?
+- Peut-on trouver un biomarqueur diagnostic, prédictif, voire même préventif ?
