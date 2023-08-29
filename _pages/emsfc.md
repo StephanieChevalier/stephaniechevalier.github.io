@@ -11,6 +11,16 @@ author_profile: true
 
 ## Travaux à feuilleter (résumé à venir) :
 
+**Immuno / gastro:**
+   - <span class="blue_accent">[Augmentation de la perméabilité intestinale et translocation bactérienne sont associées à fibromyalgie et EM/SFC : implications pour la découverte de biomarqueurs](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1253121/abstract)</span>, Frontiers in Immunology, 2023/08
+
+**Immuno / endocrino :**
+   - <span class="blue_accent">[Des autoanticorps dirigés contre la sélénoprotéine P dans le syndrome de fatigue chronique suggèrent une altération du transport du sélénium et une résistance acquise à l'hormone thyroïdienne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/)</span>, Redox Biology, 2023/07
+
+**Métabolisme :**
+   - <span class="blue_accent">[WASF3 perturbe la respiration mitochondriale et peut contribuer à l'intolérance à l'exercice dans l'EM/SFC](https://www.pnas.org/doi/10.1073/pnas.2302738120)</span>, PNAS, 2023/06
+   - <span class="blue_accent">[Un déséquilibre redox relie COVID-19 et l'EM/SFC](https://www.pnas.org/doi/full/10.1073/pnas.2024358118)</span>, PNAS, 2021/06
+
 **Neuro :**  
    - Hyperbaric oxygen therapy :
        - <span class="blue_accent">[Une thérapie d'oxygénothérapie hyperbare améliore les fonctions neurocognitives et les symptômes de l'état post-COVID : essai contrôlé randomisé](https://www.nature.com/articles/s41598-022-15565-0)</span>, Nature Scientific Reports, 2022/07
@@ -21,16 +31,6 @@ author_profile: true
            - <span style='font-size:smaller;'>[Un modèle neuro-inflammatoire peut expliquer l'apparition, les symptômes et les poussées de l'EM/SFC](https://www.publish.csiro.au/hc/HC19041), Journal of Primary Health Care, 2019/11</span>
            - <span style='font-size:smaller;'>[Les recherches actuelles donnent un aperçu des bases biologiques et du potentiel diagnostique de l'EM/SFC](https://www.mdpi.com/2075-4418/9/3/73), Diagnostics, 2019/07</span>
    - <span class="blue_accent">[Le flux sanguin cérébral est réduit dans l'EM/SFC lors du test d'inclinaison tête haute, même en l'absence d'hypotension ou de tachycardie : étude quantitative contrôlée utilisant l'échographie Doppler](https://www.sciencedirect.com/science/article/pii/S2467981X20300044)</span>, Clinical Neurophysiology Practice, 2020/01
-
-**Immuno / gastro:**
-   - <span class="blue_accent">[Augmentation de la perméabilité intestinale et translocation bactérienne sont associées à la fibromyalgie et à l'EM/SFC : implications pour la découverte de biomarqueurs liés à la maladie](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1253121/abstract)</span>, Frontiers in Immunology, 2023/08
-
-**Immuno / endocrino :**
-   - <span class="blue_accent">[Des autoanticorps dirigés contre la sélénoprotéine P dans le syndrome de fatigue chronique suggèrent une altération du transport du sélénium et une résistance acquise à l'hormone thyroïdienne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/)</span>, Redox Biology, 2023/07
-
-**Métabolisme :**
-   - <span class="blue_accent">[WASF3 perturbe la respiration mitochondriale et peut contribuer à l'intolérance à l'exercice dans l'encéphalomyélite myalgique/syndrome de fatigue chronique](https://www.pnas.org/doi/10.1073/pnas.2302738120)</span>, PNAS, 2023/06
-   - <span class="blue_accent">[Un déséquilibre redox relie COVID-19 et l'EM/SFC](https://www.pnas.org/doi/full/10.1073/pnas.2024358118)</span>, PNAS, 2021/06
 
 <hr class="hr_gradient" />
 
@@ -69,7 +69,7 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic; font
   [![sodium](../files/EMSFC/2022-12_Muscle-sodium-content_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-12_Muscle-sodium-content.pdf)
 
 <hr/>
-### <span style='font-size: larger;'>Microbiome intestinal</span>
+### <span style='font-size: larger;'>Gastro-entérologie</span>
   + 02/2023: <important>Dans l'EM/SFC, association entre production insuffisante de butyrate dans le microbiome intestinal et perturbations du réseau bactérien + symptômes de fatigue.</important>  
   [![butyrate_dysbiosis](../files/EMSFC/2023-02_Gut-microbiome-butyrate_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Gut-microbiome-butyrate.html)
 
