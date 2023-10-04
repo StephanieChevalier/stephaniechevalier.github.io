@@ -19,7 +19,7 @@ author_profile: true
 * [Angiologie](#angio)
 * [Biologie moléculaire](#biomol)
 
-<small_emphasis>Quand une image est associée à la traduction du titre de la publication, un résumé en français de l'étude est accessible en cliquant sur cette image.</small_emphasis>
+<small_emphasis>Quand une image est associée au titre de la publication, un résumé en français de l'étude est accessible en cliquant sur l'image.</small_emphasis>
 
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
 
