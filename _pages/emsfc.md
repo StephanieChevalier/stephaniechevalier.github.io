@@ -9,41 +9,40 @@ author_profile: true
 
 <hr class="hr_gradient" />
 
-## Travaux à feuilleter (résumé à venir) :
 
-**Immuno / gastro:**
-   - <span class="blue_accent">[Augmentation de la perméabilité intestinale et translocation bactérienne sont associées à fibromyalgie et EM/SFC : implications pour la découverte de biomarqueurs](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1253121/abstract)</span>, Frontiers in Immunology, 2023/08
+## Publications :
 
-**Immuno / endocrino :**
-   - <span class="blue_accent">[Des autoanticorps dirigés contre la sélénoprotéine P dans le syndrome de fatigue chronique suggèrent une altération du transport du sélénium et une résistance acquise à l'hormone thyroïdienne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/)</span>, Redox Biology, 2023/07
+* [Neurologie](#neuro)
+* [Immunologie](#immuno)
+* [Métabolisme](#metabo)
+* [Gastro-entérologie](#gastro)
+* [Angiologie](#angio)
+* [Biologie moléculaire](#biomol)
 
-**Métabolisme :**
-   - <span class="blue_accent">[WASF3 perturbe la respiration mitochondriale et peut contribuer à l'intolérance à l'exercice dans l'EM/SFC](https://www.pnas.org/doi/10.1073/pnas.2302738120)</span>, PNAS, 2023/06
-   - <span class="blue_accent">[Un déséquilibre redox relie COVID-19 et EM/SFC](https://www.pnas.org/doi/full/10.1073/pnas.2024358118)</span>, PNAS, 2021/06
+<small_emphasis>Quand une image est associée à la traduction du titre de la publication, un résumé en français de l'étude est accessible en cliquant sur cette image.</small_emphasis>
 
-**Neuro :**  
-   - Hyperbaric oxygen therapy :
-       - <span class="blue_accent">[Une thérapie d'oxygénothérapie hyperbare améliore les fonctions neurocognitives et les symptômes de l'état post-COVID : essai contrôlé randomisé](https://www.nature.com/articles/s41598-022-15565-0)</span>, Nature Scientific Reports, 2022/07
-       - <span class="blue_accent">[Hypométabolisme cérébral généralisé (TEP 18F-FDG) dans le syndrome de fatigue chronique traité par oxygénothérapie hyperbare](https://link.springer.com/article/10.1007/s00259-020-05122-0)</span>, European Journal of Nuclear Medicine and Molecular Imaging, 2021/05
-   - Travaux de Angus Mackay sur la neuroinflammation :
-       - <span class="blue_accent">[Un paradigme neuroinflammatoire peut expliquer l'EM/SFC et le syndrome de fatigue post-COVID-19](https://ourarchive.otago.ac.nz/handle/10523/15089)</span>, manuscrit de thèse, 2023/03, regroupant :
-           - <span style='font-size:smaller;'>[Un paradigme pour le syndrome de fatigue post-Covid-19 analogue à l'EM/SFC](https://www.frontiersin.org/articles/10.3389/fneur.2021.701419/full), Frontiers in Neurology, 2021/08</span>
-           - <span style='font-size:smaller;'>[Un modèle neuro-inflammatoire peut expliquer l'apparition, les symptômes et les poussées de l'EM/SFC](https://www.publish.csiro.au/hc/HC19041), Journal of Primary Health Care, 2019/11</span>
-           - <span style='font-size:smaller;'>[Les recherches actuelles donnent un aperçu des bases biologiques et du potentiel diagnostique de l'EM/SFC](https://www.mdpi.com/2075-4418/9/3/73), Diagnostics, 2019/07</span>
-   - <span class="blue_accent">[Le flux sanguin cérébral est réduit dans l'EM/SFC lors du test d'inclinaison tête haute, même en l'absence d'hypotension ou de tachycardie : étude quantitative contrôlée utilisant l'échographie Doppler](https://www.sciencedirect.com/science/article/pii/S2467981X20300044)</span>, Clinical Neurophysiology Practice, 2020/01
+<hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
 
-<hr class="hr_gradient" />
+### <span style='font-size: larger;'>Neurologie</span> <a class="anchor" id="neuro"></a>
++ 07/2022: <important>Une thérapie d’oxygénothérapie hyperbare améliore les fonctions neurocognitives et les symptômes de l’état post-COVID : essai contrôlé randomisé</important>  
+[![acylcarnitine](../files/EMSFC/2022-07_HBOT_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-07_HBOT.html)
+     - **étaye un précédent résultat sur patient EM/SFC :**  
+     (résumé à venir) <span class="blue_accent">[Hypométabolisme cérébral généralisé (TEP 18F-FDG) dans le syndrome de fatigue chronique traité par oxygénothérapie hyperbare](https://link.springer.com/article/10.1007/s00259-020-05122-0)</span>, *European Journal of Nuclear Medicine and Molecular Imaging*, 2021/05
+<hr/>
++ Travaux de Angus Mackay sur la neuroinflammation :
+     - <span class="blue_accent">[Un paradigme neuroinflammatoire peut expliquer l'EM/SFC et le syndrome de fatigue post-COVID-19](https://ourarchive.otago.ac.nz/handle/10523/15089)</span>, manuscrit de thèse, 2023/03, regroupant :
+         - (résumé à venir) <span style='font-size:smaller;'>[Un paradigme pour le syndrome de fatigue post-Covid-19 analogue à l'EM/SFC](https://www.frontiersin.org/articles/10.3389/fneur.2021.701419/full), Frontiers in Neurology, 2021/08</span>
+         - <span style='font-size:smaller;'>[Un modèle neuro-inflammatoire peut expliquer l'apparition, les symptômes et les poussées de l'EM/SFC](https://www.publish.csiro.au/hc/HC19041), Journal of Primary Health Care, 2019/11</span>
+         - <span style='font-size:smaller;'>[Les recherches actuelles donnent un aperçu des bases biologiques et du potentiel diagnostique de l'EM/SFC](https://www.mdpi.com/2075-4418/9/3/73), Diagnostics, 2019/07</span>
+<hr/>
++ (résumé à venir) <span class="blue_accent">[Le flux sanguin cérébral est réduit dans l'EM/SFC lors du test d'inclinaison tête haute, même en l'absence d'hypotension ou de tachycardie : étude quantitative contrôlée utilisant l'échographie Doppler](https://www.sciencedirect.com/science/article/pii/S2467981X20300044)</span>, Clinical Neurophysiology Practice, 2020/01
 
-
-
-## Résumés de publications 2022 et 2023 :
-<small_emphasis>(pour journal club en français)</small_emphasis>
-
-----
-
-### <span style='font-size: larger;'>Immunologie</span>
+<hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
+### <span style='font-size: larger;'>Immunologie / immuno-endocrino</span> <a class="anchor" id="immuno"></a>
 
 Résultats positifs <span style='font-weight: lighter; font-style: italic; font-size:smaller;'>(i.e. résultat statistiquement significatif qui appuie une hypothèse)</span> :
+  + (résumé à venir) <span class="blue_accent">[Des autoanticorps dirigés contre la sélénoprotéine P dans le syndrome de fatigue chronique suggèrent une altération du transport du sélénium et une résistance acquise à l'hormone thyroïdienne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/)</span>, Redox Biology, 2023/07
+  <hr/>
   + 06/2023: <important>Altération de l'influx calcique dépendant du TRPM7 dans les lymphocytes NK de patients EM/SFC.</important>  
   [![TRPM7-alteration](../files/EMSFC/2023-06_TRPM7_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_TRPM7.html)  
   <hr/>
@@ -54,32 +53,38 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic; font
   + 07/2023: <important>Comparaison de la diversité des récepteurs des lymphocytes T entre EM/SFC et témoins.</important>  
   [![tcell](../files/EMSFC/2023-07_Tcell_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-07_Tcell.html)
 
-<hr/>
-### <span style='font-size: larger;'>Métabolisme</span>
-  + 06/2023: <important>Comparaison des taux sériques d'acylcarnitine chez patients EM/SFC vs témoins : revue systématique et méta-analyse.</important>  
-  [![acylcarnitine](../files/EMSFC/2023-06_acylcarnitine_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_acylcarnitine.html)  
-  <hr/>
-  + 03/2023: <important>Différencier la myopathie mitochondriale primaire (se manifestant par intolérance à l'effort et fatigue) de l'EM/SFC grâce aux taux sériques de GDF-15.</important>  
-  [![gdf15](../files/EMSFC/2023-03_GDF15-differentiate-patients_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-03_GDF15-differentiate-patients.html)  
-  <hr/>
-  + 03/2022: <important>La consommation d'oxygène comme biomarqueur pour le diagnostic de la fatigue chronique.</important>  
-  [![oxygen_biomarker](../files/EMSFC/2022-03_Oxygen-biomarker_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-03_Oxygen-biomarker.pdf)  
-  <hr/>
-  + 12/2022: <important>Teneur en sodium plus élevée dans les muscles de patients EM/SFC.</important>  
-  [![sodium](../files/EMSFC/2022-12_Muscle-sodium-content_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-12_Muscle-sodium-content.pdf)
+<hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
+### <span style='font-size: larger;'>Métabolisme</span> <a class="anchor" id="metabo"></a>
 
++ (résumé à venir) <span class="blue_accent">[WASF3 perturbe la respiration mitochondriale et peut contribuer à l'intolérance à l'exercice dans l'EM/SFC](https://www.pnas.org/doi/10.1073/pnas.2302738120)</span>, PNAS, 2023/06
 <hr/>
-### <span style='font-size: larger;'>Gastro-entérologie</span>
++ (résumé à venir) <span class="blue_accent">[Un déséquilibre redox relie COVID-19 et EM/SFC](https://www.pnas.org/doi/full/10.1073/pnas.2024358118)</span>, PNAS, 2021/06
+<hr/>
++ 06/2023: <important>Comparaison des taux sériques d'acylcarnitine chez patients EM/SFC vs témoins : revue systématique et méta-analyse.</important>  
+[![acylcarnitine](../files/EMSFC/2023-06_acylcarnitine_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_acylcarnitine.html)  
+<hr/>
++ 03/2023: <important>Différencier la myopathie mitochondriale primaire (se manifestant par intolérance à l'effort et fatigue) de l'EM/SFC grâce aux taux sériques de GDF-15.</important>  
+[![gdf15](../files/EMSFC/2023-03_GDF15-differentiate-patients_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-03_GDF15-differentiate-patients.html)  
+<hr/>
++ 03/2022: <important>La consommation d'oxygène comme biomarqueur pour le diagnostic de la fatigue chronique.</important>  
+[![oxygen_biomarker](../files/EMSFC/2022-03_Oxygen-biomarker_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-03_Oxygen-biomarker.pdf)  
+<hr/>
++ 12/2022: <important>Teneur en sodium plus élevée dans les muscles de patients EM/SFC.</important>  
+[![sodium](../files/EMSFC/2022-12_Muscle-sodium-content_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-12_Muscle-sodium-content.pdf)
+
+<hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
+### <span style='font-size: larger;'>Gastro-entérologie / immuno-gastro</span> <a class="anchor" id="gastro"></a>
+  + (résumé à venir) <span class="blue_accent">[Augmentation de la perméabilité intestinale et translocation bactérienne sont associées à fibromyalgie et EM/SFC : implications pour la découverte de biomarqueurs](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1253121/abstract)</span>, Frontiers in Immunology, 2023/08
   + 02/2023: <important>Dans l'EM/SFC, association entre production insuffisante de butyrate dans le microbiome intestinal et perturbations du réseau bactérien + symptômes de fatigue.</important>  
   [![butyrate_dysbiosis](../files/EMSFC/2023-02_Gut-microbiome-butyrate_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Gut-microbiome-butyrate.html)
 
-<hr/>
-### <span style='font-size: larger;'>Angiologie</span>
+<hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
+### <span style='font-size: larger;'>Angiologie</span> <a class="anchor" id="angio"></a>
   + 02/2023: <important>Dysfonction endothéliale chez patients EM/SFC : dilatation médiée par le flux et hyperémie réactive réduites.</important>  
   [![endothelial_dysfonction](../files/EMSFC/2023-02_Endothelial-dysfonction_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Endothelial-dysfonction.pdf)
 
-<hr/>
-### <span style='font-size: larger;'>Biologie moléculaire</span>
+<hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
+### <span style='font-size: larger;'>Biologie moléculaire</span> <a class="anchor" id="biomol"></a>
   + 02/2023: <important>Distinction entre EM/SFC, fibromyalgie et affections comorbides grâce aux profils d'expression de microARN circulants.</important>  
   [![circulating_miRNA](../files/EMSFC/2023-02_Circulating-miRNA_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Circulating-miRNA.pdf)
 
@@ -113,4 +118,4 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic; font
 - Mécanismes qui relient ces anomalies d'apparence hétéroclites ?
 - Liens entre anomalies et symptômes ?
 - Existe-t-il une explication commune à tous les symptômes qui pourrait répondre à une thérapie ?
-- Peut-on trouver un biomarqueur diagnostic, prédictif, voire même préventif ?
+- Peut-on trouver un bio
