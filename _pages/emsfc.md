@@ -13,9 +13,9 @@ author_profile: true
 ## Publications :
 
 * [Neurologie](#neuro)
+* [Gastro-entérologie](#gastro)
 * [Immunologie](#immuno)
 * [Métabolisme](#metabo)
-* [Gastro-entérologie](#gastro)
 * [Angiologie](#angio)
 * [Biologie moléculaire](#biomol)
 
@@ -38,7 +38,14 @@ author_profile: true
 + (résumé à venir) <span class="blue_accent">[Le flux sanguin cérébral est réduit dans l'EM/SFC lors du test d'inclinaison tête haute, même en l'absence d'hypotension ou de tachycardie : étude quantitative contrôlée utilisant l'échographie Doppler](https://www.sciencedirect.com/science/article/pii/S2467981X20300044)</span>, Clinical Neurophysiology Practice, 2020/01
 
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
-### <span style='font-size: larger;'>Immunologie / immuno-endocrino</span> <a class="anchor" id="immuno"></a>
+### <span style='font-size: larger;'>Gastro-entérologie (& immuno)</span> <a class="anchor" id="gastro"></a>
++ (résumé à venir) <span class="blue_accent">[Augmentation de la perméabilité intestinale et translocation bactérienne sont associées à fibromyalgie et EM/SFC : implications pour la découverte de biomarqueurs](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1253121/abstract)</span>, Frontiers in Immunology, 2023/08
+<hr/>
++ 02/2023: <important>Dans l'EM/SFC, association entre production insuffisante de butyrate dans le microbiome intestinal et perturbations du réseau bactérien + symptômes de fatigue.</important>  
+[![butyrate_dysbiosis](../files/EMSFC/2023-02_Gut-microbiome-butyrate_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Gut-microbiome-butyrate.html)
+
+<hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
+### <span style='font-size: larger;'>Immunologie (& endocrino)</span> <a class="anchor" id="immuno"></a>
 
 Résultats positifs <span style='font-weight: lighter; font-style: italic; font-size:smaller;'>(i.e. résultat statistiquement significatif qui appuie une hypothèse)</span> :
   + (résumé à venir) <span class="blue_accent">[Des autoanticorps dirigés contre la sélénoprotéine P dans le syndrome de fatigue chronique suggèrent une altération du transport du sélénium et une résistance acquise à l'hormone thyroïdienne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/)</span>, Redox Biology, 2023/07
@@ -71,13 +78,6 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic; font
 <hr/>
 + 12/2022: <important>Teneur en sodium plus élevée dans les muscles de patients EM/SFC.</important>  
 [![sodium](../files/EMSFC/2022-12_Muscle-sodium-content_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-12_Muscle-sodium-content.pdf)
-
-<hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
-### <span style='font-size: larger;'>Gastro-entérologie / immuno-gastro</span> <a class="anchor" id="gastro"></a>
-+ (résumé à venir) <span class="blue_accent">[Augmentation de la perméabilité intestinale et translocation bactérienne sont associées à fibromyalgie et EM/SFC : implications pour la découverte de biomarqueurs](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1253121/abstract)</span>, Frontiers in Immunology, 2023/08
-<hr/>
-+ 02/2023: <important>Dans l'EM/SFC, association entre production insuffisante de butyrate dans le microbiome intestinal et perturbations du réseau bactérien + symptômes de fatigue.</important>  
-[![butyrate_dysbiosis](../files/EMSFC/2023-02_Gut-microbiome-butyrate_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Gut-microbiome-butyrate.html)
 
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
 ### <span style='font-size: larger;'>Angiologie</span> <a class="anchor" id="angio"></a>
