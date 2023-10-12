@@ -119,4 +119,4 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic; font
 - Mécanismes qui relient ces anomalies d'apparence hétéroclites ?
 - Liens entre anomalies et symptômes ?
 - Existe-t-il une explication commune à tous les symptômes qui pourrait répondre à une thérapie ?
-- Peut-on trouver un bio
+- Peut-on trouver un biomarqueur diagnostic, prédictif, voire même préventif ?
