@@ -9,17 +9,19 @@ author_profile: true
 
 <hr class="hr_gradient" />
 
-## Séminaires "ME/CFS Research Roadmap" :
+## Ressources :
 
-Série de 8 séminaires [(de août 2023 à janvier 2024)](https://event.roseliassociates.com/me-cfs-research-roadmap/agendas/) à l'initiative d'un groupe de travail du NINDS (institut faisant partie des *National Institutes of Health* américains). Réunit la communauté de l'EM/SFC (chercheurs, cliniciens, acteurs associatifs).
+<hr/>
+### [Séminaires "ME/CFS Research Roadmap"](https://www.ninds.nih.gov/about-ninds/who-we-are/advisory-council/nandsc-mecfs-research-roadmap-working-group)
+
+[Série de 8 séminaires (de août 2023 à janvier 2024)](https://event.roseliassociates.com/me-cfs-research-roadmap/agendas/) à l'initiative d'un groupe de travail du NINDS (institut faisant partie des *National Institutes of Health* américains). Réunit la communauté de l'EM/SFC (chercheurs, cliniciens, acteurs associatifs).
 
 Chaque webinaire est enregistré et mis à disposition sur [la page du groupe de travail](https://www.ninds.nih.gov/about-ninds/who-we-are/advisory-council/nandsc-mecfs-research-roadmap-working-group).
 
-<hr class="hr_gradient" />
+<hr/>
+### [Open Medicine Foundation](https://www.omf.ngo/what-is-mecfs/)
 
-## Ressources :
-
-[Open Medicine Foundation](https://www.omf.ngo/what-is-mecfs/) (pour professionnels de la santé et pour patients)
+Synthèse de ressources pour professionnels de santé et pour patients.
 
 <hr class="hr_gradient" />
 
