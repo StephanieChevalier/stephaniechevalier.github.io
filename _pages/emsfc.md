@@ -17,6 +17,10 @@ Chaque webinaire est enregistré et mis à disposition sur [la page du groupe de
 
 <hr class="hr_gradient" />
 
+## Ressources :
+
+[Open Medicine Foundation](https://www.omf.ngo/what-is-mecfs/) (pour professionnels de la santé et pour patients)
+
 ## Publications :
 
 * [Neurologie](#neuro)
