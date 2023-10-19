@@ -5,7 +5,7 @@ permalink: /emsfc/
 author_profile: true
 ---
 
-# Veille bibliographique sur EM/SFC et COVID long
+# Veille sur EM/SFC et COVID long
 
 <hr class="hr_gradient" />
 
@@ -25,7 +25,7 @@ Synthèse de ressources pour professionnels de santé et pour patients.
 
 <hr class="hr_gradient" />
 
-## Publications :
+## Veille bibliographique (avec synthèses en français) :
 
 * [Neurologie](#neuro)
 * [Gastro-entérologie](#gastro)
