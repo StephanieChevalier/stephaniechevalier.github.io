@@ -9,12 +9,12 @@ author_profile: true
 
 <hr class="hr_gradient" />
 
-## Ressources :
+## Ressources (en anglais) :
 
 <hr/>
 ### [Séminaires "ME/CFS Research Roadmap"](https://www.ninds.nih.gov/about-ninds/who-we-are/advisory-council/nandsc-mecfs-research-roadmap-working-group)
 
-[Série de 8 séminaires (de août 2023 à janvier 2024)](https://event.roseliassociates.com/me-cfs-research-roadmap/agendas/) à l'initiative d'un groupe de travail du NINDS (institut faisant partie des *National Institutes of Health* américains). Réunit la communauté de l'EM/SFC (chercheurs, cliniciens, acteurs associatifs).
+[Série de 8 webinaires (de août 2023 à janvier 2024)](https://event.roseliassociates.com/me-cfs-research-roadmap/agendas/) à l'initiative d'un groupe de travail du NINDS (institut faisant partie des *National Institutes of Health* américains). Réunit la communauté de l'EM/SFC (chercheurs, cliniciens, acteurs associatifs).
 
 Chaque webinaire est enregistré et mis à disposition sur [la page du groupe de travail](https://www.ninds.nih.gov/about-ninds/who-we-are/advisory-council/nandsc-mecfs-research-roadmap-working-group).
 
