@@ -9,19 +9,26 @@ author_profile: true
 
 <hr class="hr_gradient" />
 
-## Ressources (en anglais) :
+## Communications (en anglais) :
 
 <hr/>
-### [Séminaires "ME/CFS Research Roadmap"](https://www.ninds.nih.gov/about-ninds/who-we-are/advisory-council/nandsc-mecfs-research-roadmap-working-group)
+### NIH ME/CFS working group :
 
-[Série de 8 webinaires (de août 2023 à janvier 2024)](https://event.roseliassociates.com/me-cfs-research-roadmap/agendas/) à l'initiative d'un groupe de travail du NINDS (institut faisant partie des *National Institutes of Health* américains). Réunit la communauté de l'EM/SFC (chercheurs, cliniciens, acteurs associatifs).
+- **[<small_emphasis>Séminaires "ME/CFS Research Roadmap"</small_emphasis>](https://event.roseliassociates.com/me-cfs-research-roadmap/agendas/)** : webinaires thématiques pour présenter les recherches actuelles sur l'EM/SFC, les lacunes et les perspectives. Réunit la communauté de l’EM/SFC (chercheurs, cliniciens, acteurs associatifs).  
+    - 25/08/2023 : **Système nerveux** <span style="font-size: smaller;">([enregistrement disponible](https://www.ninds.nih.gov/about-ninds/who-we-are/advisory-council/nandsc-mecfs-research-roadmap-working-group))</span>
+    - 19/10/2023 : **Système immunitaire**
+    - 26/10/2023 : **Métabolisme**
+    - 01/11/2023 : **Génomique & Prédisposition génétique**
+    - 30/11/2023 : **Infections chroniques**
+    - 08/12/2023 : **Physiologie**
 
-Chaque webinaire est enregistré et mis à disposition sur [la page du groupe de travail](https://www.ninds.nih.gov/about-ninds/who-we-are/advisory-council/nandsc-mecfs-research-roadmap-working-group).
+- **[<small_emphasis>Conférence "Advancing ME/CFS Research: Identifying Targets for Intervention and Learning from Long COVID"</small_emphasis>](https://web.cvent.com/event/efc45a4d-bcc1-4832-b537-8905ae828077/summary)** (12 et 13 décembre 2023)
 
 <hr/>
-### [Open Medicine Foundation](https://www.omf.ngo/what-is-mecfs/)
+### Ressources pour patients et professionnels de santé :
 
-Synthèse de ressources pour professionnels de santé et pour patients.
+- [<small_emphasis>Open Medicine Foundation</small_emphasis>](https://www.omf.ngo/what-is-mecfs/)  
+- [<small_emphasis>Bateman Horne Center</small_emphasis>](https://batemanhornecenter.org/)
 
 <hr class="hr_gradient" />
 
