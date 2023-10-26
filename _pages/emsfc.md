@@ -118,6 +118,7 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic; font
 <!-- + [![circRNA](../files/EMSFC/2023-06_circRNA_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_circRNA.html)  
 <hr/>-->
 
+<!--###
 <hr class="hr_gradient" />
 
 ## "État des lieux" :
@@ -142,3 +143,4 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic; font
 - Liens entre anomalies et symptômes ?
 - Existe-t-il une explication commune à tous les symptômes qui pourrait répondre à une thérapie ?
 - Peut-on trouver un biomarqueur diagnostic, prédictif, voire même préventif ?
+-->
