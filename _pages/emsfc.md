@@ -18,7 +18,7 @@ author_profile: true
     - 25/08/2023 : [**Système nerveux**](https://youtu.be/f6KJH1_QhIg?si=cn5TPWMFnDOmRcaK)
     - 19/10/2023 : [**Système immunitaire**](https://youtu.be/6al3hkRo4mo?si=K8bFOLo3dbElEsqH)
     - 26/10/2023 : [**Métabolisme**](https://youtu.be/nLRqb5RM2rY?si=JjZWyf_SJA7JLrUe)
-    - 01/11/2023 : [**Génomique & Prédisposition génétique**](https://youtu.be/3Sv93qHF0WQ?si=_11N-W1zQ2x19uwT)
+    - 01/11/2023 : [**Génomique / Prédispositions génétiques**](https://youtu.be/3Sv93qHF0WQ?si=_11N-W1zQ2x19uwT)
     - 30/11/2023 : [**Infections chroniques**](https://youtu.be/s1e4uWYJgGw?si=SiWW3sop-hEDV4Vh)
     - 08/12/2023 : [**Physiologie**](https://youtu.be/Y5AvIGvjyO4?si=xsJHUhlvRnNlOvYd)
 
