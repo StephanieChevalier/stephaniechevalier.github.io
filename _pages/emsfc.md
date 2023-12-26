@@ -14,13 +14,13 @@ author_profile: true
 <hr/>
 ### NIH ME/CFS working group :
 
-- **[<small_emphasis>Séminaires "ME/CFS Research Roadmap"</small_emphasis>](https://event.roseliassociates.com/me-cfs-research-roadmap/agendas/)** : webinaires thématiques pour présenter les recherches actuelles sur l'EM/SFC, les lacunes et les perspectives. Réunit la communauté de l’EM/SFC (chercheurs, cliniciens, acteurs associatifs).  
-    - 25/08/2023 : **Système nerveux** <span style="font-size: smaller;">([enregistrement disponible](https://www.ninds.nih.gov/about-ninds/who-we-are/advisory-council/nandsc-mecfs-research-roadmap-working-group))</span>
-    - 19/10/2023 : **Système immunitaire**
-    - 26/10/2023 : **Métabolisme**
-    - 01/11/2023 : **Génomique & Prédisposition génétique**
-    - 30/11/2023 : **Infections chroniques**
-    - 08/12/2023 : **Physiologie**
+- **[<small_emphasis>Séminaires "ME/CFS Research Roadmap"</small_emphasis>](https://event.roseliassociates.com/me-cfs-research-roadmap/recordings/)** : webinaires thématiques pour présenter les recherches actuelles sur l'EM/SFC, les lacunes et les perspectives. Réunit la communauté de l’EM/SFC (chercheurs, cliniciens, acteurs associatifs). [Le programme](https://event.roseliassociates.com/me-cfs-research-roadmap/agendas/) des webinaires et [leurs enregistrements (et retranscriptions)](https://event.roseliassociates.com/me-cfs-research-roadmap/recordings/) sont disponibles en ligne.  
+    - 25/08/2023 : [**Système nerveux**](https://youtu.be/f6KJH1_QhIg?si=cn5TPWMFnDOmRcaK)
+    - 19/10/2023 : [**Système immunitaire**](https://youtu.be/6al3hkRo4mo?si=K8bFOLo3dbElEsqH)
+    - 26/10/2023 : [**Métabolisme**](https://youtu.be/nLRqb5RM2rY?si=JjZWyf_SJA7JLrUe)
+    - 01/11/2023 : [**Génomique & Prédisposition génétique**](https://youtu.be/3Sv93qHF0WQ?si=_11N-W1zQ2x19uwT)
+    - 30/11/2023 : [**Infections chroniques**](https://youtu.be/s1e4uWYJgGw?si=SiWW3sop-hEDV4Vh)
+    - 08/12/2023 : [**Physiologie**](https://youtu.be/Y5AvIGvjyO4?si=xsJHUhlvRnNlOvYd)
 
 - **[<small_emphasis>Conférence "Advancing ME/CFS Research: Identifying Targets for Intervention and Learning from Long COVID"</small_emphasis>](https://web.cvent.com/event/efc45a4d-bcc1-4832-b537-8905ae828077/summary)** (12 et 13 décembre 2023)
 
