@@ -12,6 +12,13 @@ author_profile: true
 ## Communications (en anglais) :
 
 <hr/>
+### Ressources pour patients et professionnels de santé :
+
+- [<small_emphasis>Symptoms of ME/CFS (from *Centers for Disease Control and Prevention* - USA)</small_emphasis>](https://www.cdc.gov/me-cfs/symptoms-diagnosis/symptoms.html)
+- [<small_emphasis>Open Medicine Foundation</small_emphasis>](https://www.omf.ngo/what-is-mecfs/)  
+- [<small_emphasis>Bateman Horne Center</small_emphasis>](https://batemanhornecenter.org/)
+
+<hr/>
 ### NIH ME/CFS working group :
 
 - **[<small_emphasis>Séminaires "ME/CFS Research Roadmap"</small_emphasis>](https://event.roseliassociates.com/me-cfs-research-roadmap/recordings/)** : webinaires thématiques pour présenter les recherches actuelles sur l'EM/SFC, les lacunes et les perspectives. Réunit la communauté de l’EM/SFC (chercheurs, cliniciens, acteurs associatifs). [Le programme](https://event.roseliassociates.com/me-cfs-research-roadmap/agendas/) des webinaires et [leurs enregistrements (et retranscriptions)](https://event.roseliassociates.com/me-cfs-research-roadmap/recordings/) sont disponibles en ligne.  
@@ -23,13 +30,6 @@ author_profile: true
     - 08/12/2023 : [**Physiologie**](https://youtu.be/Y5AvIGvjyO4?si=xsJHUhlvRnNlOvYd)
 
 - **[<small_emphasis>Conférence "Advancing ME/CFS Research: Identifying Targets for Intervention and Learning from Long COVID"</small_emphasis>](https://web.cvent.com/event/efc45a4d-bcc1-4832-b537-8905ae828077/summary)** (12 et 13 décembre 2023)
-
-<hr/>
-### Ressources pour patients et professionnels de santé :
-
-- [Symptoms of ME/CFS (from *Centers for Disease Control and Prevention* - USA)](https://www.cdc.gov/me-cfs/symptoms-diagnosis/symptoms.html)
-- [<small_emphasis>Open Medicine Foundation</small_emphasis>](https://www.omf.ngo/what-is-mecfs/)  
-- [<small_emphasis>Bateman Horne Center</small_emphasis>](https://batemanhornecenter.org/)
 
 <hr class="hr_gradient" />
 
