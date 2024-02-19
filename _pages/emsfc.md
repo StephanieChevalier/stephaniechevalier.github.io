@@ -21,7 +21,7 @@ author_profile: true
 <hr/>
 ### NIH ME/CFS working group :
 
-- **[<small_emphasis>Séminaires "ME/CFS Research Roadmap"</small_emphasis>](https://event.roseliassociates.com/me-cfs-research-roadmap/recordings/)** : webinaires thématiques pour présenter les recherches actuelles sur l'EM/SFC, les lacunes et les perspectives. Réunit la communauté de l’EM/SFC (chercheurs, cliniciens, acteurs associatifs). [Le programme](https://event.roseliassociates.com/me-cfs-research-roadmap/agendas/) des webinaires et [leurs enregistrements (et retranscriptions)](https://event.roseliassociates.com/me-cfs-research-roadmap/recordings/) sont disponibles en ligne.  
+- **[<small_emphasis>Séminaires "ME/CFS Research Roadmap"</small_emphasis>](https://event.roseliassociates.com/me-cfs-research-roadmap/recordings/)** : webinaires thématiques qui réunissent chercheurs, cliniciens et acteurs associatifs autour de l'EM/SFC. Objectif : états de l'art thématiques (études scientifiques menées, résultats, lacunes, perspectives). [Le programme](https://event.roseliassociates.com/me-cfs-research-roadmap/agendas/) des webinaires et [leurs enregistrements (et retranscriptions)](https://event.roseliassociates.com/me-cfs-research-roadmap/recordings/) sont disponibles en ligne.  
     - 25/08/2023 : [**Système nerveux**](https://youtu.be/f6KJH1_QhIg?si=cn5TPWMFnDOmRcaK)
     - 19/10/2023 : [**Système immunitaire**](https://youtu.be/6al3hkRo4mo?si=K8bFOLo3dbElEsqH)
     - 26/10/2023 : [**Métabolisme**](https://youtu.be/nLRqb5RM2rY?si=JjZWyf_SJA7JLrUe)
