@@ -14,9 +14,9 @@ author_profile: true
 <hr/>
 ### Ressources pour patients et professionnels de santé :
 
-- [<small_emphasis>Symptoms of ME/CFS (from *Centers for Disease Control and Prevention* - USA)</small_emphasis>](https://www.cdc.gov/me-cfs/symptoms-diagnosis/symptoms.html)
-- [<small_emphasis>Open Medicine Foundation</small_emphasis>](https://www.omf.ngo/what-is-mecfs/)  
-- [<small_emphasis>Bateman Horne Center</small_emphasis>](https://batemanhornecenter.org/)
+- [Symptoms of ME/CFS (from *Centers for Disease Control and Prevention* - USA)](https://www.cdc.gov/me-cfs/symptoms-diagnosis/symptoms.html)
+- [Open Medicine Foundation](https://www.omf.ngo/what-is-mecfs/)  
+- [Bateman Horne Center](https://batemanhornecenter.org/)
 
 <hr/>
 ### NIH ME/CFS working group :
