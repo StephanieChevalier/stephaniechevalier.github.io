@@ -46,7 +46,7 @@ author_profile: true
 
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
 
-+ 02/2024: <span class="blue_accent">[Phénotypage profond de l'EM/SFC post-infectieuse](https://www.nature.com/articles/s41467-024-45107-3)</span>
++ 02/2024: <span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">[Phénotypage profond de l'EM/SFC post-infectieuse](https://www.nature.com/articles/s41467-024-45107-3)</span>
 
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
 
