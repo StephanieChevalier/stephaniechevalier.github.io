@@ -46,6 +46,10 @@ author_profile: true
 
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
 
++ 02/2024: <important>[Phénotypage profond de l'EM/SFC post-infectieuse](https://www.nature.com/articles/s41467-024-45107-3)</important>
+
+<hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
+
 ### <span style='font-size: larger;'>Neurologie</span> <a class="anchor" id="neuro"></a>
 + 07/2022: <important>Une thérapie d’oxygénothérapie hyperbare améliore les fonctions neurocognitives et les symptômes de l’état post-COVID : essai contrôlé randomisé</important>  
 [![acylcarnitine](../files/EMSFC/2022-07_HBOT_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-07_HBOT.html)
