@@ -66,18 +66,22 @@ author_profile: true
 <hr/>
 + (résumé à venir) <span class="blue_accent">[Le flux sanguin cérébral est réduit dans l'EM/SFC lors du test d'inclinaison tête haute, même en l'absence d'hypotension ou de tachycardie : étude quantitative contrôlée utilisant l'échographie Doppler](https://www.sciencedirect.com/science/article/pii/S2467981X20300044)</span>, Clinical Neurophysiology Practice, 2020/01
 
+
+
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
 ### <span style='font-size: larger;'>Gastro-entérologie (& immuno)</span> <a class="anchor" id="gastro"></a>
-+ (résumé à venir) <span class="blue_accent">[Augmentation de la perméabilité intestinale et translocation bactérienne sont associées à fibromyalgie et EM/SFC : implications pour la découverte de biomarqueurs](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1253121/abstract)</span>, Frontiers in Immunology, 2023/08
++ 08/2023: <span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">[Augmentation de la perméabilité intestinale et translocation bactérienne sont associées à fibromyalgie et EM/SFC : implications pour la découverte de biomarqueurs](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1253121/abstract)</span>, Frontiers in Immunology
 <hr/>
 + 02/2023: <important>Dans l'EM/SFC, association entre production insuffisante de butyrate dans le microbiome intestinal et perturbations du réseau bactérien + symptômes de fatigue.</important>  
 [![butyrate_dysbiosis](../files/EMSFC/2023-02_Gut-microbiome-butyrate_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Gut-microbiome-butyrate.html)
+
+
 
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
 ### <span style='font-size: larger;'>Immunologie (& endocrino)</span> <a class="anchor" id="immuno"></a>
 
 Résultats positifs <span style='font-weight: lighter; font-style: italic; font-size:smaller;'>(i.e. résultat statistiquement significatif qui appuie une hypothèse)</span> :
-  + (résumé à venir) <span class="blue_accent">[Des autoanticorps dirigés contre la sélénoprotéine P dans le syndrome de fatigue chronique suggèrent une altération du transport du sélénium et une résistance acquise à l'hormone thyroïdienne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/)</span>, Redox Biology, 2023/07
+  + 07/2023: <span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">[Des autoanticorps dirigés contre la sélénoprotéine P dans le syndrome de fatigue chronique suggèrent une altération du transport du sélénium et une résistance acquise à l'hormone thyroïdienne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/)</span>, Redox Biology
   <hr/>
   + 06/2023: <important>Altération de l'influx calcique dépendant du TRPM7 dans les lymphocytes NK de patients EM/SFC.</important>  
   [![TRPM7-alteration](../files/EMSFC/2023-06_TRPM7_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_TRPM7.html)  
@@ -92,9 +96,7 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic; font
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
 ### <span style='font-size: larger;'>Métabolisme</span> <a class="anchor" id="metabo"></a>
 
-+ (résumé à venir) <span class="blue_accent">[WASF3 perturbe la respiration mitochondriale et peut contribuer à l'intolérance à l'exercice dans l'EM/SFC](https://www.pnas.org/doi/10.1073/pnas.2302738120)</span>, PNAS, 2023/06
-<hr/>
-+ (résumé à venir) <span class="blue_accent">[Un déséquilibre redox relie COVID-19 et EM/SFC](https://www.pnas.org/doi/full/10.1073/pnas.2024358118)</span>, PNAS, 2021/06
++ 06/2023: <span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">[WASF3 perturbe la respiration mitochondriale et peut contribuer à l'intolérance à l'exercice dans l'EM/SFC](https://www.pnas.org/doi/10.1073/pnas.2302738120)</span>, PNAS
 <hr/>
 + 06/2023: <important>Comparaison des taux sériques d'acylcarnitine chez patients EM/SFC vs témoins : revue systématique et méta-analyse.</important>  
 [![acylcarnitine](../files/EMSFC/2023-06_acylcarnitine_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_acylcarnitine.html)  
@@ -107,6 +109,8 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic; font
 <hr/>
 + 12/2022: <important>Teneur en sodium plus élevée dans les muscles de patients EM/SFC.</important>  
 [![sodium](../files/EMSFC/2022-12_Muscle-sodium-content_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-12_Muscle-sodium-content.pdf)
+<hr/>
++ 06/2021: <span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">[Un déséquilibre redox relie COVID-19 et EM/SFC](https://www.pnas.org/doi/full/10.1073/pnas.2024358118)</span>, PNAS
 
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
 ### <span style='font-size: larger;'>Angiologie</span> <a class="anchor" id="angio"></a>
