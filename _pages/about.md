@@ -10,7 +10,7 @@ redirect_from:
 ---
 ## Postdoctoral fellow @ Servier
 
-<span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">Assist in drug combination strategies by exploring interaction networks.</span> **Involved in the challenging issue of modeling biological systems and predicting behaviors under perturbations to support therapeutic solution research.**
+<span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">Network-based approach for prioritization of drug combination strategies.</span> **Involved in the challenging issue of modeling biological systems and predicting behaviors under perturbations to support therapeutic solution research.**
 
 <hr class="hr_gradient" />
 
