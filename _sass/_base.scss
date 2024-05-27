@@ -22,6 +22,13 @@ body {
   }
 }
 
+.custom-background {
+  background-image: url('../../images/bioinfo_banner_5.png');
+  background-size: cover;
+  background-position: center;
+}
+
+
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
@@ -32,32 +39,36 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   margin-top: 0;
   font-size: $type-size-23;
+  text-shadow:
+    0 0 10px rgba(0,0,0,0.9),  /* First layer of shadow for base darkness */
+    0 0 25px rgba(0,0,0,0.9),  /* Second layer of shadow for enhanced darkness */
+    0 0 50px rgba(0,0,0,0.9);  /* Third layer of shadow for maximum darkness */
 }
 
 h1.page__title {
     padding: 5%;
     text-align: center;
     /*color: #4f6e8c; /*#d7a686, bordeau:602e3c*/
-    text-shadow: 1px 1px 0px black; //rgba(0,0,0,0.15)
     background-size: cover;
-    color: white;
+    text-shadow: 0 0 0px rgba(0,0,0,0);
 }
 
 h1.page__title__experience {
     padding: 5%;
     text-align: center;
-    /*color: #4f6e8c; /*#d7a686, bordeau:602e3c*/
-    text-shadow: 1px 1px 0px black; //rgba(0,0,0,0.15)
+    color: white;
+}
+
+.background-image__experience {
+    width: 100%;
+    height: 100%;
     background-image: url("../../images/background_experience_cut.jpg");
     background-size: cover;
-    color: white;
 }
 
 h1.page__title__skills {
     padding: 5%;
     text-align: center;
-    /*color: #4f6e8c; /*#d7a686, bordeau:602e3c*/
-    text-shadow: 1px 1px 0px black; //rgba(0,0,0,0.15)
     background-image: url("../../images/background_skills_cut.jpg");
     background-size: cover;
     color: white;
@@ -66,18 +77,21 @@ h1.page__title__skills {
 h1.page__title__communications {
     padding: 5%;
     text-align: center;
-    /*color: #4f6e8c; /*#d7a686, bordeau:602e3c*/
-    text-shadow: 1px 1px 0px black; //rgba(0,0,0,0.15)
-    background-image: url("../../images/background_communications_cut.jpg");
-    background-size: cover;
     color: white;
+}
+
+.background-image__communications {
+    width: 100%;
+    height: 100%;
+    /*background-image: url("../../images/background_communications_cut.jpg");*/
+    background-image: url("../../images/bioinfo_banner_5.png");
+    background-position: center;
+    background-size: cover;
 }
 
 h1.page__title__moreinfo {
     padding: 5%;
     text-align: center;
-    /*color: #4f6e8c; /*#d7a686, bordeau:602e3c*/
-    text-shadow: 1px 1px 0px black; //rgba(0,0,0,0.15)
     background-image: url("../../images/Calais_cut.jpg");
     background-size: cover;
     color: white;
@@ -86,21 +100,34 @@ h1.page__title__moreinfo {
 h1.page__title__teaching {
     padding: 5%;
     text-align: center;
-    /*color: #4f6e8c; /*#d7a686, bordeau:602e3c*/
-    text-shadow: 1px 1px 0px black; //rgba(0,0,0,0.15)
-    background-image: url("../../images/plaine_des_sables_cut.jpg");
-    background-size: cover;
     color: white;
 }
 
-h1.page__title__publications {
+.background-image__teaching {
+    width: 100%;
+    height: 100%;
+    background-image: url("../../images/plaine_des_sables_cut.jpg");
+    background-size: cover;
+}
+
+h1.page__title__research {
     padding: 5%;
     text-align: center;
     /*color: #4f6e8c; /*#d7a686, bordeau:602e3c*/
-    text-shadow: 1px 1px 0px black; //rgba(0,0,0,0.15)
-    background-image: url("../../images/mafate_cut.jpg");
-    background-size: cover;
+    /*text-shadow: 1px 1px 0px black; //rgba(0,0,0,0.15)*/
+    /*text-shadow: 0 0 15px rgba(0,0,0,0.9);*/
+    /*background-image: url("../../images/bioinfo_banner_5.png");*/ /*mafate_cut.jpg*/
+    /*background-position: center;*/
+    /*background-size: cover;*/
     color: white;
+}
+
+.background-image__research {
+    width: 100%;
+    height: 100%;
+    background-image: url("../../images/bioinfo_banner_5.png");
+    background-position: center;
+    background-size: cover;
 }
 
 h2, h3 {
@@ -112,7 +139,7 @@ h2 {
     margin-top: 1em;
     margin-bottom: 0em;
     font-size: $type-size-4;
-    color: #4f6e8c; /*#5d7d9c*/
+    color: #b45f06;
     padding: 0.5em 0 0;
     /*background-color: #cbdbeb;*/
     /*box-shadow: 12px 10px 6px -6px rgba(203,219,235,0.61);
@@ -125,6 +152,7 @@ h2 {
 
 h2.archive__item-title {
     font-size: 1.1em;
+    text-shadow: 0 0 0px rgba(0,0,0,0);
 }
 
 h2#research-motivation {
@@ -159,7 +187,13 @@ h6 {
 }
 
 .important {
-    color: #b45f06;
+    color: #4f6e8c;
+    font-weight: bold;
+    text-shadow: 1px 1px 0px rgba(0,0,0,0.15);
+}
+
+.important_dark {
+    color: darkgray;
     font-weight: bold;
     text-shadow: 1px 1px 0px rgba(0,0,0,0.15);
 }
@@ -169,7 +203,7 @@ h6 {
 }
 
 informative {
-    color: #b45f06;
+    color: #4f6e8c; /*#b45f06;*/
 }
 
 emphasis {

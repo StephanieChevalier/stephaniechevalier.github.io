@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
 
-  - title: "Communications"
-    url: /communications/
+#  - title: "Communications"
+#    url: /communications/
 
   - title: "Experience & education"
     url: /experience/
@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Skills"
-    url: /skills/
+#  - title: "Skills"
+#    url: /skills/
 
   - title: "About me"
     url: /more-info/

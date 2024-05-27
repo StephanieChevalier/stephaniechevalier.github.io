@@ -55,7 +55,7 @@ author_profile: true
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
 
 ### <span style='font-size: larger;'>Neurologie</span> <a class="anchor" id="neuro"></a>
-+ 07/2022: <important>Une thérapie d’oxygénothérapie hyperbare améliore les fonctions neurocognitives et les symptômes de l’état post-COVID : essai contrôlé randomisé</important>  
++ 07/2022: <span class=important>Une thérapie d’oxygénothérapie hyperbare améliore les fonctions neurocognitives et les symptômes de l’état post-COVID : essai contrôlé randomisé</span>  
 [![acylcarnitine](../files/EMSFC/2022-07_HBOT_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-07_HBOT.html)
      - **étaye un précédent résultat sur patient EM/SFC :**  
      (résumé à venir) <span class="blue_accent">[Hypométabolisme cérébral généralisé (TEP 18F-FDG) dans le syndrome de fatigue chronique traité par oxygénothérapie hyperbare](https://link.springer.com/article/10.1007/s00259-020-05122-0)</span>, *European Journal of Nuclear Medicine and Molecular Imaging*, 2021/05
@@ -74,7 +74,7 @@ author_profile: true
 ### <span style='font-size: larger;'>Gastro-entérologie (& immuno)</span> <a class="anchor" id="gastro"></a>
 + 08/2023: <span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">[Augmentation de la perméabilité intestinale et translocation bactérienne sont associées à fibromyalgie et EM/SFC : implications pour la découverte de biomarqueurs](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1253121/abstract)</span>, Frontiers in Immunology
 <hr/>
-+ 02/2023: <important>Dans l'EM/SFC, association entre production insuffisante de butyrate dans le microbiome intestinal et perturbations du réseau bactérien + symptômes de fatigue.</important>  
++ 02/2023: <span class=important>Dans l'EM/SFC, association entre production insuffisante de butyrate dans le microbiome intestinal et perturbations du réseau bactérien + symptômes de fatigue.</span>  
 [![butyrate_dysbiosis](../files/EMSFC/2023-02_Gut-microbiome-butyrate_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Gut-microbiome-butyrate.html)
 
 
@@ -85,14 +85,14 @@ author_profile: true
 Résultats positifs <span style='font-weight: lighter; font-style: italic; font-size:smaller;'>(i.e. résultat statistiquement significatif qui appuie une hypothèse)</span> :
   + 07/2023: <span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">[Des autoanticorps dirigés contre la sélénoprotéine P dans le syndrome de fatigue chronique suggèrent une altération du transport du sélénium et une résistance acquise à l'hormone thyroïdienne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338150/)</span>, Redox Biology
   <hr/>
-  + 06/2023: <important>Altération de l'influx calcique dépendant du TRPM7 dans les lymphocytes NK de patients EM/SFC.</important>  
+  + 06/2023: <span class=important>Altération de l'influx calcique dépendant du TRPM7 dans les lymphocytes NK de patients EM/SFC.</span>  
   [![TRPM7-alteration](../files/EMSFC/2023-06_TRPM7_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_TRPM7.html)  
   <hr/>
-  + 01/2023: <important>Les changements transcriptomiques induits par l'exercice chez des femmes EM/SFC révèlent des signatures immunitaires perturbées.</important>  
+  + 01/2023: <span class=important>Les changements transcriptomiques induits par l'exercice chez des femmes EM/SFC révèlent des signatures immunitaires perturbées.</span>  
   [![transcriptomic-changes](../files/EMSFC/2023-01_Exercice-transcriptomic-changes_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-01_Exercice-transcriptomic-changes.pdf)
 
 Résultats négatifs <span style='font-weight: lighter; font-style: italic; font-size:smaller;'>(i.e. résultat n'ayant pas permis de confirmer une hypothèse)</span> :
-  + 07/2023: <important>Comparaison de la diversité des récepteurs des lymphocytes T entre EM/SFC et témoins.</important>  
+  + 07/2023: <span class=important>Comparaison de la diversité des récepteurs des lymphocytes T entre EM/SFC et témoins.</span>  
   [![tcell](../files/EMSFC/2023-07_Tcell_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-07_Tcell.html)
 
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
@@ -100,28 +100,28 @@ Résultats négatifs <span style='font-weight: lighter; font-style: italic; font
 
 + 06/2023: <span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">[WASF3 perturbe la respiration mitochondriale et peut contribuer à l'intolérance à l'exercice dans l'EM/SFC](https://www.pnas.org/doi/10.1073/pnas.2302738120)</span>, PNAS
 <hr/>
-+ 06/2023: <important>Comparaison des taux sériques d'acylcarnitine chez patients EM/SFC vs témoins : revue systématique et méta-analyse.</important>  
++ 06/2023: <span class=important>Comparaison des taux sériques d'acylcarnitine chez patients EM/SFC vs témoins : revue systématique et méta-analyse.</span>  
 [![acylcarnitine](../files/EMSFC/2023-06_acylcarnitine_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-06_acylcarnitine.html)  
 <hr/>
-+ 03/2023: <important>Différencier la myopathie mitochondriale primaire (se manifestant par intolérance à l'effort et fatigue) de l'EM/SFC grâce aux taux sériques de GDF-15.</important>  
++ 03/2023: <span class=important>Différencier la myopathie mitochondriale primaire (se manifestant par intolérance à l'effort et fatigue) de l'EM/SFC grâce aux taux sériques de GDF-15.</span>  
 [![gdf15](../files/EMSFC/2023-03_GDF15-differentiate-patients_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-03_GDF15-differentiate-patients.html)  
 <hr/>
-+ 03/2022: <important>La consommation d'oxygène comme biomarqueur pour le diagnostic de la fatigue chronique.</important>  
++ 03/2022: <span class=important>La consommation d'oxygène comme biomarqueur pour le diagnostic de la fatigue chronique.</span>  
 [![oxygen_biomarker](../files/EMSFC/2022-03_Oxygen-biomarker_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-03_Oxygen-biomarker.pdf)  
 <hr/>
-+ 12/2022: <important>Teneur en sodium plus élevée dans les muscles de patients EM/SFC.</important>  
++ 12/2022: <span class=important>Teneur en sodium plus élevée dans les muscles de patients EM/SFC.</span>  
 [![sodium](../files/EMSFC/2022-12_Muscle-sodium-content_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-12_Muscle-sodium-content.pdf)
 <hr/>
 + 06/2021: <span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">[Un déséquilibre redox relie COVID-19 et EM/SFC](https://www.pnas.org/doi/full/10.1073/pnas.2024358118)</span>, PNAS
 
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
 ### <span style='font-size: larger;'>Angiologie</span> <a class="anchor" id="angio"></a>
-  + 02/2023: <important>Dysfonction endothéliale chez patients EM/SFC : dilatation médiée par le flux et hyperémie réactive réduites.</important>  
+  + 02/2023: <span class=important>Dysfonction endothéliale chez patients EM/SFC : dilatation médiée par le flux et hyperémie réactive réduites.</span>  
   [![endothelial_dysfonction](../files/EMSFC/2023-02_Endothelial-dysfonction_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Endothelial-dysfonction.pdf)
 
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
 ### <span style='font-size: larger;'>Biologie moléculaire</span> <a class="anchor" id="biomol"></a>
-  + 02/2023: <important>Distinction entre EM/SFC, fibromyalgie et affections comorbides grâce aux profils d'expression de microARN circulants.</important>  
+  + 02/2023: <span class=important>Distinction entre EM/SFC, fibromyalgie et affections comorbides grâce aux profils d'expression de microARN circulants.</span>  
   [![circulating_miRNA](../files/EMSFC/2023-02_Circulating-miRNA_vignette.png){:class="img-vignette"}](../files/EMSFC/2023-02_Circulating-miRNA.pdf)
 
 

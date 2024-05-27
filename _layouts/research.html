@@ -17,7 +17,10 @@ layout: default
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title__publications">{{ page.title }}</h1>
+    <div class="background-image__research">
+        <h1 class="page__title__research">{{ page.title }}</h1>
+    </div>
+
     {% endunless %}
     {{ content }}
   </div>

@@ -1,10 +1,38 @@
 ---
-layout: communications
-title: "Communications"
-permalink: /communications/
+layout: research
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+## Publications
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## PhD topic
+
+**PhD in computer science for a systems biology issue:** <span class=important>modelling of regulatory mechanisms</span>.
+
+I contributed to <span class=important>a method for automatic inference of discrete dynamical models of biological interactions</span> governing complex cell behaviors, called BoNesis.
+It allows to **model regulatory mechanisms of biological processes with complex dynamic properties**, such as cell differentiation, by taking into account **knowledge on thousands of genes**.
+
+[![BoNesis-principle](../images/bonesis_principle.png){:class="img-page"}](https://github.com/bnediction/bonesis)
+
+This modeling confronts **prior knowledge** on interactions with **observations** along the process to model (bulk/single cell gene expressions, perturbations, mutations...). It can then <span class=important>enumerate all Boolean networks reproducing a complex behavior</span> (under _[mp semantics](https://hal.archives-ouvertes.fr/hal-01864693v2/document)_), e.g. cell differentiation. It can also be used to help <span class=important>select relevant nodes among a large prior knowledge network</span> (e.g. from public interaction databases).
+
+Method based on Answer-Set-Programming.
+
+## Communications
+
+<span style="font-size:smaller;">
 * [Thesis](../files/manuscrit.pdf) & [defense](../files/2022-09_soutenance.pdf) --- 09/2022 --- Univ. Paris-Saclay  
 **<span class=important>PhD defense</span>**
 * [Presentation](../files/2021-07_WAN.pdf), international workshop --- 07/2021 --- Marseille  
@@ -31,3 +59,4 @@ author_profile: true
 **<span class=important>Bioss</span>** <informative>annual days (CNRS workgroup on systemic and symbolic biology)</informative>
 * Poster, national conference --- 07/2018 --- Marseille  
 **<span class=important>JOBIM</span>** <informative>(Journées Ouvertes en Biologie, Informatique et Mathématiques)</informative>
+</span>
