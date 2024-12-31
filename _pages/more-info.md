@@ -21,5 +21,9 @@ Claude Lévi-Strauss</span>
 <span style="font-size:smaller;">**"A woman is human. She is not better, wiser, stronger, more intelligent, more creative, or more responsible than a man. Likewise, she is never less. Equality is a given. A woman is human."**  
 Vera Nazarian</span>
 
+<span style="font-size:smaller;">**"The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'"**  
+Isaac Asimov</span>
+
+To salute my (great) statistician colleagues:
 <span style="font-size:smaller;">**"To call in the statistician after the experiment is done may be no more than asking him to perform a post-mortem examination: he may be able to say what the experiment died of."**  
 Ronald Fisher</span>
