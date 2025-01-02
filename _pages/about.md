@@ -24,7 +24,7 @@ I am convinced that there are exciting explorations to be carried out, given the
 They remain poorly understood at a fundamental level, leading to not only **a lack of effective therapeutic solutions** but also **limited symptomatic relief** for patients.
 
 My fascination for this research area is twofold:
-- As a citizen, it represents a pressing public health challenge with significant potential for millions of patients the society is therefore missing out on.
+- As a citizen, it represents a pressing public health challenge with significant potential for millions of patients the society is missing out on.
 - As a researcher, it promises captivating multisystemic explorations that go beyond compartmentalized health studies. Addressing these conditions requires looking into infectiology & immunology, while studying physiological dysfunctions that likely span central and peripheral neurology, gastroenterology, cardiology... and the complex interactions with potentially all systems of
 metabolic alterations such as mitochondrial impairment.
 
