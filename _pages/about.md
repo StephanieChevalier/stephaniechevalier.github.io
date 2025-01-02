@@ -21,7 +21,7 @@ redirect_from:
 In particular,
 <span class=important>I have a keen interest in neuroimmune and infectious diseases</span>.
 I am convinced that there are exciting explorations to be carried out, given the complexity of **multisystem impacts** of this type of disorder.
-It remain poorly understood at a fundamental level, leading to not only **a lack of effective therapeutic solutions** but also **limited symptomatic relief** for patients.
+This remains poorly understood at a fundamental level, leading to not only **a lack of effective therapeutic solutions** but also **limited symptomatic relief** for patients.
 <!-- a lack of effective therapeutic solutions -->
 
 My fascination for this research area is twofold:
