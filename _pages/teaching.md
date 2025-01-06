@@ -37,4 +37,4 @@ For <span class=important>JeBiF (“Jeunes Bioinformaticiens de France”)</span
 **vice-chairwoman**
 * <span style="font-size:smaller;">05/2017 | Boullay-les-Troux (France)</span>  
 For <span class=important>a science initiation in a primary school</span>:  
-**co-designer and co-presenter of a computer science initiation** in 8 sessions for 2 groups of pupils (CP-CE1 ~ 6-7 yo), CE2-CM1-CM2 ~ 8-10 y.o.)
+**co-designer and co-presenter of a computer science initiation** in 8 sessions for 2 groups of pupils (CP-CE1 ~ 6-7 yo), CE2-CM1-CM2 ~ 8-10 yo)
