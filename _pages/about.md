@@ -19,7 +19,7 @@ redirect_from:
 <span class=important>I am highly motivated by the translation of fundamental research into health care advances.</span>
 
 In particular,
-<span class=important>I have a keen interest in neuroimmune and infectious diseases</span>.
+<span class=important>I have a keen interest in the complex interplay between neuro/immunology and infectious diseases, with a particular focus on conditions characterised by persistent systemic effects that challenge our current understanding.</span>.
 I am convinced that there are exciting explorations to be carried out, given the complexity of **multisystem impacts** of this type of disorder.
 They remain poorly understood at a fundamental level, leading to not only **a lack of effective therapeutic solutions** but also **limited symptomatic relief** for patients.
 
