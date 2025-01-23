@@ -32,6 +32,10 @@ Claude Lévi-Strauss</span>
 <span style="font-size:smaller;">**"A woman is human. She is not better, wiser, stronger, more intelligent, more creative, or more responsible than a man. Likewise, she is never less. Equality is a given. A woman is human."**  
 Vera Nazarian</span>
 
+<span style="font-size:smaller;">**"**[...] **we sometimes invoke the law of nature. But there are no laws in nature. There are only phenomena. People make the laws."**  
+François Jacob (quote from the archive [Le Monde - 20 novembre 1972](https://www.lemonde.fr/archives/article/1972/11/20/libres-opinions-donner-la-vie-est-une-chose-serieuse_3035158_1819218.html))</span>
+
+
 <span style="font-size:smaller;">To salute my (great) statistician colleagues:</span>  
 <span style="font-size:smaller;">**"To call in the statistician after the experiment is done may be no more than asking him to perform a post-mortem examination: he may be able to say what the experiment died of."**  
 Ronald Fisher</span>
