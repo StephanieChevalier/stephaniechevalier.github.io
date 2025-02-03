@@ -35,7 +35,7 @@ author_profile: true
 
 ## Veille bibliographique (avec synthèses en français) :
 
-* [Dernières publications](#recent)
+* [Fourbi](#fourbi)
 * [Neurologie](#neuro)
 * [Gastro-entérologie](#gastro)
 * [Immunologie](#immuno)
@@ -47,7 +47,7 @@ author_profile: true
 
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
 
-### <span style='font-size: larger;'>Dernières publications</span> <a class="anchor" id="recent"></a>
+### <span style='font-size: larger;'>Fourbi</span> <a class="anchor" id="fourbi"></a>
 
 + 02/2024: <span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">[Phénotypage profond de l'EM/SFC post-infectieuse](https://www.nature.com/articles/s41467-024-45107-3)</span>, Nature Communications
 + 05/2024: <span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">[Reprogrammation épigénétique dans l'EM/SFC : un point sur les virus latents](https://onlinelibrary.wiley.com/doi/10.1111/joim.13792)</span>, Journal of Internal Medicine
@@ -55,6 +55,8 @@ author_profile: true
 <hr style="height: 10px; border: 0; box-shadow: 0 10px 4px -10px #8c8b8b inset;"/>
 
 ### <span style='font-size: larger;'>Neurologie</span> <a class="anchor" id="neuro"></a>
++ 07/2024: <span style="color: #b45f06; font-weight: bold; text-shadow: 1px 1px 0px rgba(0,0,0,0.15);">[Chaîne légère des neurofilaments dans le plasma : un biomarqueur potentiel pour le dysfonctionnement neurologique dans l'EM/SFC](https://www.mdpi.com/2227-9059/12/7/1539)</span>, Biomedicines
+<hr/>
 + 07/2022: <span class=important>Une thérapie d’oxygénothérapie hyperbare améliore les fonctions neurocognitives et les symptômes de l’état post-COVID : essai contrôlé randomisé</span>  
 [![acylcarnitine](../files/EMSFC/2022-07_HBOT_vignette.png){:class="img-vignette"}](../files/EMSFC/2022-07_HBOT.html)
      - **étaye un précédent résultat sur patient EM/SFC :**  
