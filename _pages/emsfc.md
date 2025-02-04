@@ -1,11 +1,11 @@
 ---
-layout: archive
+layout: emsfc
 title: "emsfc"
 permalink: /emsfc/
 author_profile: true
 ---
 
-# Veille sur EM/SFC et COVID long
+# <span style="text-shadow: none;">Veille sur EM/SFC et COVID long</span>
 
 <hr class="hr_gradient" />
 
