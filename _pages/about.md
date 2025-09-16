@@ -25,8 +25,7 @@ They remain poorly understood at a fundamental level, leading to not only **a la
 
 My fascination for this research area is twofold:
 - As a citizen, it represents a pressing public health challenge with significant potential for millions of patients the society is missing out on.
-- As a researcher, it promises captivating multisystemic explorations that go beyond compartmentalized health studies. Addressing these conditions requires looking into infectiology & immunology, while studying physiological dysfunctions that likely span central and peripheral neurology, gastroenterology, cardiology... and the complex interactions with potentially all systems of
-metabolic alterations such as mitochondrial impairment.
+- As a researcher, it leads to captivating multisystemic explorations that go beyond compartmentalized health studies. Addressing these conditions requires looking into infectiology & immunology, while studying dysfunctions that span central and peripheral neurology, gastroenterology, cardiology… and their complex interactions with metabolic alterations such as mitochondrial impairment.
 
 <!-- I am highly motivated by the translation of fundamental research into health care advances, with a particular interest in multisystemic disorders. -->
 <!-- I have a special affinity for the holistic approach of systems biology to explore biological phenomena.-->
